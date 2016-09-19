@@ -1,5 +1,21 @@
+
+html {
+     background-image: url("../images/bats.gif");
+} 
+
 body { 
+    width: 800px;
+    margin: 0 auto;
     font-family:"Georgia", Georgia, serif;
+    background-color: white;
+    box-shadow: 10px 10px 5px #888888;
+    border-style: solid;
+    
+}
+
+header{
+    border-bottom: solid;
+    background: linear-gradient(45deg, white, orange, black);
 }
 
 h1{
@@ -14,8 +30,6 @@ main h1::first-letter{
  
  header h1{
      margin-left: 150px;
-    color: orange;
-      text-shadow: 2px 2px #000000;
  }
  
  header h2{
@@ -38,6 +52,11 @@ main h1::first-letter{
 }
 li{
      margin: 0 0 10px 0;
+}
+
+footer{
+    background: linear-gradient(-45deg, white, orange, black);
+    border-top: solid;
 }
 
 footer p{
