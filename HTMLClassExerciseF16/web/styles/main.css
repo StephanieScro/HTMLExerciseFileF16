@@ -1,0 +1,46 @@
+body { 
+    font-family:"Georgia", Georgia, serif;
+}
+
+h1{
+    font-size: 40px
+}
+
+main h1::first-letter{
+    font-size: 70px;
+}
+ h2{ font-size: 25px;
+ }
+ 
+ header h1{
+     margin-left: 150px;
+    color: orange;
+      text-shadow: 2px 2px #000000;
+ }
+ 
+ header h2{
+      margin-left: 150px;
+     
+ }
+ 
+ img {
+     float:left;
+ }
+ a{
+     color:orange;
+     font-weight: bold;
+    
+     
+ }
+ 
+ a:hover {
+    color: green;
+}
+li{
+     margin: 0 0 10px 0;
+}
+
+footer p{
+    font-size: 14px;
+        text-align: center;
+}
