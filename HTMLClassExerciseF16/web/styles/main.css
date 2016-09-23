@@ -34,19 +34,19 @@ body {
   .side li a:hover {
     color: green;
 }
-.navigation li{
+
+.navigation  li{
     width: auto;
     display: inline-BLOCK;
     text-decoration: none;
 }
 .navigation{
-    padding-top: .05px;
+    padding: 10px 0 10px;
     background-color: black;
 }
 .navigation li a {
-    
     text-decoration: none;
-    padding: 25px;
+    padding: 37px;
     color:white;
   
 }
@@ -63,7 +63,7 @@ header{
     background: -webkit-linear-gradient(45deg, white , orange, black); 
     background: -o-linear-gradient(45deg, white, orange, black); 
     background: -moz-linear-gradient(45deg, white, orange, black); 
-    padding: 10px;
+    padding-top: 10px;
    
 }
 footer {
