@@ -1,0 +1,5 @@
+chrown
+chown
+sudo chown -R root:wheel/Applications/Inspiration\ 9.app
+sudo chown -R root:wheel /Applications/Inspiration\ 9.app
+sudo chown -R root:wheel /Applications/Applications 

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>73A23B71-4345-45E4-8F4D-6DC6932B38B1</key>
+	<dict>
+		<key>contentHash</key>
+		<string></string>
+		<key>description</key>
+		<string></string>
+		<key>details</key>
+		<dict>
+			<key>annotatedServices</key>
+			<dict>
+				<key>PNA_Store</key>
+				<dict>
+					<key>Address</key>
+					<string>https://virtualapps.elon.edu/citrix/pnagent/config.xml</string>
+					<key>Beacons</key>
+					<dict>
+						<key>External</key>
+						<array/>
+						<key>Internal</key>
+						<array/>
+					</dict>
+					<key>DiscoveryDocument</key>
+					<string></string>
+					<key>Gateways</key>
+					<dict/>
+					<key>Name</key>
+					<string>Elon Virtual Apps</string>
+					<key>StoreType</key>
+					<integer>1</integer>
+					<key>metaData</key>
+					<dict>
+						<key>plugins</key>
+						<array/>
+						<key>properties</key>
+						<dict/>
+						<key>trustSettings</key>
+						<dict/>
+					</dict>
+					<key>storeRepresentsAg</key>
+					<false/>
+					<key>type</key>
+					<integer>0</integer>
+				</dict>
+			</dict>
+			<key>metaData</key>
+			<dict>
+				<key>plugins</key>
+				<array/>
+				<key>properties</key>
+				<dict/>
+				<key>trustSettings</key>
+				<dict/>
+			</dict>
+			<key>updaterType</key>
+			<integer>0</integer>
+		</dict>
+		<key>name</key>
+		<string>Elon Virtual Apps</string>
+		<key>published</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ErrorReportingUUID</key>
+	<string>96DE8E11-9691-47A2-8F33-389643ECA8E8</string>
+	<key>QuitAfterGeneratingReport</key>
+	<false/>
+	<key>TotalErrors</key>
+	<integer>1</integer>
+	<key>kCUIThemePreferencesThemeKeyPath</key>
+	<integer>0</integer>
+	<key>launchWhenDone:Microsoft Word</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+2016/06/24-12:19:47.802 56835 Reusing MANIFEST /Users/elon/Library/Application Support/Google/Chrome/Default/Session Storage/MANIFEST-000001
+2016/06/24-12:19:47.802 56835 Recovering log #9
+2016/06/24-12:19:47.802 56835 Reusing old log /Users/elon/Library/Application Support/Google/Chrome/Default/Session Storage/000009.log 
+2016/06/24-12:21:42.827 115543 Level-0 table #13: started
+2016/06/24-12:21:42.828 115543 Level-0 table #13: 92556 bytes OK
+2016/06/24-12:21:42.829 115543 Delete type=0 #9
+2016/06/24-13:32:34.254 115543 Level-0 table #15: started
+2016/06/24-13:32:34.256 115543 Level-0 table #15: 27762 bytes OK
+2016/06/24-13:32:34.257 115543 Delete type=0 #12
+2016/07/11-15:02:14.126 115543 Level-0 table #17: started
+2016/07/11-15:02:14.127 115543 Level-0 table #17: 53324 bytes OK
+2016/07/11-15:02:14.127 115543 Delete type=0 #14
+2016/07/11-15:02:14.127 115543 Compacting 4@0 + 1@1 files
+2016/07/11-15:02:14.130 115543 Generated table #18@0: 243 keys, 173428 bytes
+2016/07/11-15:02:14.130 115543 Compacted 4@0 + 1@1 files => 173428 bytes
+2016/07/11-15:02:14.130 115543 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/07/11-15:02:14.130 115543 Delete type=2 #7
+2016/07/11-15:02:14.130 115543 Delete type=2 #10
+2016/07/11-15:02:14.130 115543 Delete type=2 #13
+2016/07/11-15:02:14.131 115543 Delete type=2 #15
+2016/07/11-15:02:14.131 115543 Delete type=2 #17

@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uQOaGt6eScqHHWO81UEdFw==
+SHA1-Digest: NsUwOtswEeon8vRzv4yAwH0IUPM=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8hkAX7SogSHnIBCbcQPxpg==
+SHA1-Digest: 8M/BGhRnu48DhcSI1oqgg6sZbtA=
+
+Name: chrome/diigotb.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W/X0czLJ4jvBSPzKIaxqxw==
+SHA1-Digest: +8liA24ZhrXWCjkHKIug14HbqWc=
+
+Name: defaults/preferences/diigotb.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pLhvGHf2S0DOO5jpJ8/B/w==
+SHA1-Digest: 2f9rzO2FpJ1R/7qBR2B0JtDkBmA=
+

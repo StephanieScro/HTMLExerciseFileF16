@@ -1,0 +1,1015 @@
+[2012/6/20 13:28] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2012/6/20 13:28] *********** OS: Macintosh  FX VER: 10.0.2 *************
+[2012/6/20 13:28] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:10.0.2) Gecko/20100101 Firefox/10.0.2 *************
+[2012/6/20 13:28] ssrDelicious::=> No user cookie found.
+[2012/6/20 13:28] Request timeout period:90
+[2012/6/20 13:28] DEL getNetworkProviders
+[2012/6/20 13:28] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/20 13:28] DEL LASTUPDATE
+[2012/6/20 13:28] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/6/20 13:28] Awesomebar integration is off, disabled via prefs.
+[2012/6/20 13:28] Old transaction table is not present
+[2012/6/20 13:28] Old transaction table doesn't exist, No need of migration
+[2012/6/20 13:28] YDelLocalStore::startTime Timer initiated
+[2012/6/20 13:28] Done loading ybookmarks
+[2012/6/20 13:28] No username found
+[2012/6/20 13:28] Inside AddHooks.
+[2012/6/20 13:28] Adding Livemark Hook.
+[2012/6/20 13:28] Adding ShortuctURI Hook.
+[2012/6/20 13:28] DEL LASTUPDATE
+[2012/6/20 13:28] Awesomebar integration is off, disabled via prefs.
+[2012/6/20 13:28] Done loading ybookmarks
+[2012/6/20 13:28] Sidebar loaded
+[2012/6/20 13:28] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/20 13:28] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine not installed
+[2012/6/20 13:28] ybookmarksOverlay.js::ybookmarksMain::installEngine()=> Installing Engine...
+[2012/6/20 13:28] ybookmarksOverlay.js::ybookmarksMain::firstTimeStart()=> Invoked
+[2012/6/20 13:28] ybookmarksOverlay.js::ybookmarksMain::firstTimeStart()=> Version being installed = 2.1.106
+[2012/6/20 13:28] ybookmarksOverlay.js::ybookmarksMain::firstTimeStart()=> Install Type = New Install
+[2012/6/20 13:28] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/20 13:28] DEL LASTUPDATE
+[2012/6/20 13:28] Delayed load done ybookmarks
+[2012/6/20 13:28] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/20 13:28] DEL LASTUPDATE
+[2012/6/20 13:28] Delayed load done ybookmarks
+[2012/6/20 13:31] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: <TOP_LEVEL> :: line 507"  data: no]
+[2012/6/20 13:31] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/20 13:31] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2012/6/20 13:31] *********** OS: Macintosh  FX VER: 10.0.2 *************
+[2012/6/20 13:31] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:10.0.2) Gecko/20100101 Firefox/10.0.2 *************
+[2012/6/20 13:31] ssrDelicious::=> No user cookie found.
+[2012/6/20 13:31] Request timeout period:90
+[2012/6/20 13:31] DEL getNetworkProviders
+[2012/6/20 13:31] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/20 13:31] DEL LASTUPDATE
+[2012/6/20 13:31] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/6/20 13:31] Awesomebar integration is off, disabled via prefs.
+[2012/6/20 13:31] Old transaction table is not present
+[2012/6/20 13:31] Old transaction table doesn't exist, No need of migration
+[2012/6/20 13:31] YDelLocalStore::startTime Timer initiated
+[2012/6/20 13:31] Done loading ybookmarks
+[2012/6/20 13:31] No username found
+[2012/6/20 13:31] Inside AddHooks.
+[2012/6/20 13:31] Adding Livemark Hook.
+[2012/6/20 13:31] Adding ShortuctURI Hook.
+[2012/6/20 13:31] DEL LASTUPDATE
+[2012/6/20 13:31] Awesomebar integration is off, disabled via prefs.
+[2012/6/20 13:31] Done loading ybookmarks
+[2012/6/20 13:31] Sidebar loaded
+[2012/6/20 13:31] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/20 13:31] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/20 13:31] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/20 13:31] DEL LASTUPDATE
+[2012/6/20 13:31] Delayed load done ybookmarks
+[2012/6/20 13:31] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/20 13:31] DEL LASTUPDATE
+[2012/6/20 13:31] Delayed load done ybookmarks
+[2012/6/20 13:34] ssrdelicious.cred.observe:QI failed
+[2012/6/20 13:35] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: <TOP_LEVEL> :: line 507"  data: no]
+[2012/6/20 13:35] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/20 13:35] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2012/6/20 13:35] *********** OS: Macintosh  FX VER: 10.0.2 *************
+[2012/6/20 13:35] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:10.0.2) Gecko/20100101 Firefox/10.0.2 *************
+[2012/6/20 13:35] ssrDelicious::=> No user cookie found.
+[2012/6/20 13:35] Request timeout period:90
+[2012/6/20 13:35] DEL getNetworkProviders
+[2012/6/20 13:35] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/20 13:35] DEL LASTUPDATE
+[2012/6/20 13:35] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/6/20 13:35] Awesomebar integration is off, disabled via prefs.
+[2012/6/20 13:35] Old transaction table is not present
+[2012/6/20 13:35] Old transaction table doesn't exist, No need of migration
+[2012/6/20 13:35] YDelLocalStore::startTime Timer initiated
+[2012/6/20 13:35] Done loading ybookmarks
+[2012/6/20 13:35] No username found
+[2012/6/20 13:35] Inside AddHooks.
+[2012/6/20 13:35] Adding Livemark Hook.
+[2012/6/20 13:35] Adding ShortuctURI Hook.
+[2012/6/20 13:35] DEL LASTUPDATE
+[2012/6/20 13:35] Awesomebar integration is off, disabled via prefs.
+[2012/6/20 13:35] Done loading ybookmarks
+[2012/6/20 13:35] Sidebar loaded
+[2012/6/20 13:35] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/20 13:35] DEL LASTUPDATE
+[2012/6/20 13:35] Delayed load done ybookmarks
+[2012/6/20 13:35] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/20 13:35] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/20 13:35] DEL LASTUPDATE
+[2012/6/20 13:35] Delayed load done ybookmarks
+[2012/6/20 13:36] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/20 13:36] DEL LASTUPDATE
+[2012/6/20 13:36] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/6/20 13:36] Awesomebar integration is off, disabled via prefs.
+[2012/6/20 13:36] Done loading ybookmarks
+[2012/6/20 13:36] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/20 13:36] DEL LASTUPDATE
+[2012/6/20 13:36] Delayed load done ybookmarks
+[2012/6/20 13:48] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: <TOP_LEVEL> :: line 507"  data: no]
+[2012/6/20 13:48] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/20 13:48] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/20 14:8] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2012/6/20 14:8] *********** OS: Macintosh  FX VER: 10.0.2 *************
+[2012/6/20 14:8] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:10.0.2) Gecko/20100101 Firefox/10.0.2 *************
+[2012/6/20 14:8] ssrDelicious::=> No user cookie found.
+[2012/6/20 14:8] Request timeout period:90
+[2012/6/20 14:8] DEL getNetworkProviders
+[2012/6/20 14:8] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/20 14:8] DEL LASTUPDATE
+[2012/6/20 14:8] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/6/20 14:8] Awesomebar integration is off, disabled via prefs.
+[2012/6/20 14:8] Old transaction table is not present
+[2012/6/20 14:8] Old transaction table doesn't exist, No need of migration
+[2012/6/20 14:8] YDelLocalStore::startTime Timer initiated
+[2012/6/20 14:8] Done loading ybookmarks
+[2012/6/20 14:8] No username found
+[2012/6/20 14:8] Inside AddHooks.
+[2012/6/20 14:8] Adding Livemark Hook.
+[2012/6/20 14:8] Adding ShortuctURI Hook.
+[2012/6/20 14:8] DEL LASTUPDATE
+[2012/6/20 14:8] Awesomebar integration is off, disabled via prefs.
+[2012/6/20 14:8] Done loading ybookmarks
+[2012/6/20 14:8] Sidebar loaded
+[2012/6/20 14:8] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/20 14:8] ssrdelicious.cred.observe:QI failed
+[2012/6/20 14:8] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/20 14:8] DEL LASTUPDATE
+[2012/6/20 14:8] Delayed load done ybookmarks
+[2012/6/20 14:8] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/20 14:8] DEL LASTUPDATE
+[2012/6/20 14:8] Delayed load done ybookmarks
+[2012/6/20 14:8] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: <TOP_LEVEL> :: line 507"  data: no]
+[2012/6/20 14:8] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/21 10:22] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2012/6/21 10:22] *********** OS: Macintosh  FX VER: 10.0.2 *************
+[2012/6/21 10:22] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:10.0.2) Gecko/20100101 Firefox/10.0.2 *************
+[2012/6/21 10:22] ssrDelicious::=> No user cookie found.
+[2012/6/21 10:22] Request timeout period:90
+[2012/6/21 10:22] DEL getNetworkProviders
+[2012/6/21 10:22] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/21 10:22] DEL LASTUPDATE
+[2012/6/21 10:22] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/6/21 10:22] Awesomebar integration is off, disabled via prefs.
+[2012/6/21 10:22] Old transaction table is not present
+[2012/6/21 10:22] Old transaction table doesn't exist, No need of migration
+[2012/6/21 10:22] YDelLocalStore::startTime Timer initiated
+[2012/6/21 10:22] Done loading ybookmarks
+[2012/6/21 10:22] No username found
+[2012/6/21 10:22] Inside AddHooks.
+[2012/6/21 10:22] Adding Livemark Hook.
+[2012/6/21 10:22] Adding ShortuctURI Hook.
+[2012/6/21 10:22] DEL LASTUPDATE
+[2012/6/21 10:22] Awesomebar integration is off, disabled via prefs.
+[2012/6/21 10:22] Done loading ybookmarks
+[2012/6/21 10:22] Sidebar loaded
+[2012/6/21 10:22] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/21 10:22] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/21 10:22] DEL LASTUPDATE
+[2012/6/21 10:22] Delayed load done ybookmarks
+[2012/6/21 10:22] ssrdelicious.cred.observe:QI failed
+[2012/6/21 10:22] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/21 10:22] DEL LASTUPDATE
+[2012/6/21 10:22] Delayed load done ybookmarks
+[2012/6/21 10:22] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/21 10:23] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/21 10:23] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/21 10:23] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/21 10:23] DEL LASTUPDATE
+[2012/6/21 10:23] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/6/21 10:23] Awesomebar integration is off, disabled via prefs.
+[2012/6/21 10:23] Done loading ybookmarks
+[2012/6/21 10:23] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/21 10:23] DEL LASTUPDATE
+[2012/6/21 10:23] Delayed load done ybookmarks
+[2012/6/21 10:25] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/21 10:29] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: <TOP_LEVEL> :: line 507"  data: no]
+[2012/6/21 10:29] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/29 10:15] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2012/6/29 10:15] *********** OS: Macintosh  FX VER: 10.0.2 *************
+[2012/6/29 10:15] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:10.0.2) Gecko/20100101 Firefox/10.0.2 *************
+[2012/6/29 10:15] ssrDelicious::=> No user cookie found.
+[2012/6/29 10:15] Request timeout period:90
+[2012/6/29 10:15] DEL getNetworkProviders
+[2012/6/29 10:15] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/29 10:15] DEL LASTUPDATE
+[2012/6/29 10:15] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/6/29 10:15] Awesomebar integration is off, disabled via prefs.
+[2012/6/29 10:15] Old transaction table is not present
+[2012/6/29 10:15] Old transaction table doesn't exist, No need of migration
+[2012/6/29 10:15] YDelLocalStore::startTime Timer initiated
+[2012/6/29 10:15] Done loading ybookmarks
+[2012/6/29 10:15] No username found
+[2012/6/29 10:15] Inside AddHooks.
+[2012/6/29 10:15] Adding Livemark Hook.
+[2012/6/29 10:15] Adding ShortuctURI Hook.
+[2012/6/29 10:15] DEL LASTUPDATE
+[2012/6/29 10:15] Awesomebar integration is off, disabled via prefs.
+[2012/6/29 10:15] Done loading ybookmarks
+[2012/6/29 10:15] Sidebar loaded
+[2012/6/29 10:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/29 10:15] DEL LASTUPDATE
+[2012/6/29 10:15] Delayed load done ybookmarks
+[2012/6/29 10:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/29 10:15] ssrdelicious.cred.observe:QI failed
+[2012/6/29 10:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/29 10:15] DEL LASTUPDATE
+[2012/6/29 10:15] Delayed load done ybookmarks
+[2012/6/29 10:19] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/29 10:19] No username found
+[2012/6/29 10:19] Inside AddHooks.
+[2012/6/29 10:19] Not adding Hook, Mac special case.
+[2012/6/29 10:19] DEL LASTUPDATE
+[2012/6/29 10:19] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/6/29 10:19] Awesomebar integration is off, disabled via prefs.
+[2012/6/29 10:19] Done loading ybookmarks
+[2012/6/29 10:19] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/29 10:19] DEL LASTUPDATE
+[2012/6/29 10:19] Delayed load done ybookmarks
+[2012/6/29 10:20] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/29 11:19] ssrdelicious.cred.observe:QI failed
+[2012/6/29 11:21] ssrdelicious.cred.observe:QI failed
+[2012/6/29 11:23] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:23] ssrdelicious.cred.observe:QI failed
+[2012/6/29 11:24] ssrdelicious.cred.observe:QI failed
+[2012/6/29 11:27] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:27] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:30] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:30] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:31] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/29 11:31] DEL LASTUPDATE
+[2012/6/29 11:31] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/6/29 11:31] Awesomebar integration is off, disabled via prefs.
+[2012/6/29 11:31] Done loading ybookmarks
+[2012/6/29 11:31] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/29 11:31] DEL LASTUPDATE
+[2012/6/29 11:31] Delayed load done ybookmarks
+[2012/6/29 11:31] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/29 11:31] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:31] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:32] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:32] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:32] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/29 11:32] DEL LASTUPDATE
+[2012/6/29 11:32] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/6/29 11:32] Awesomebar integration is off, disabled via prefs.
+[2012/6/29 11:32] Done loading ybookmarks
+[2012/6/29 11:32] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/29 11:32] DEL LASTUPDATE
+[2012/6/29 11:32] Delayed load done ybookmarks
+[2012/6/29 11:32] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:32] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:32] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:32] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:34] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:38] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:40] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:40] ssrdelicious.cred.observe:QI failed
+[2012/6/29 11:46] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:46] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:48] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/29 11:48] No username found
+[2012/6/29 11:48] Inside AddHooks.
+[2012/6/29 11:48] Not adding Hook, Mac special case.
+[2012/6/29 11:48] DEL LASTUPDATE
+[2012/6/29 11:48] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/6/29 11:48] Awesomebar integration is off, disabled via prefs.
+[2012/6/29 11:48] Done loading ybookmarks
+[2012/6/29 11:48] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/6/29 11:48] DEL LASTUPDATE
+[2012/6/29 11:48] Delayed load done ybookmarks
+[2012/6/29 11:48] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/29 11:49] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:49] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:49] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:49] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:49] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:50] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2012/6/29 11:52] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: <TOP_LEVEL> :: line 507"  data: no]
+[2012/6/29 11:52] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/6/29 11:52] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/7/9 15:15] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2012/7/9 15:15] *********** OS: Macintosh  FX VER: 10.0.2 *************
+[2012/7/9 15:15] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:10.0.2) Gecko/20100101 Firefox/10.0.2 *************
+[2012/7/9 15:15] ssrDelicious::=> No user cookie found.
+[2012/7/9 15:15] Request timeout period:90
+[2012/7/9 15:15] DEL getNetworkProviders
+[2012/7/9 15:15] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2012/7/9 15:15] DEL LASTUPDATE
+[2012/7/9 15:15] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2012/7/9 15:15] Awesomebar integration is off, disabled via prefs.
+[2012/7/9 15:15] Old transaction table is not present
+[2012/7/9 15:15] Old transaction table doesn't exist, No need of migration
+[2012/7/9 15:15] YDelLocalStore::startTime Timer initiated
+[2012/7/9 15:15] Done loading ybookmarks
+[2012/7/9 15:15] No username found
+[2012/7/9 15:15] Inside AddHooks.
+[2012/7/9 15:15] Adding Livemark Hook.
+[2012/7/9 15:15] Adding ShortuctURI Hook.
+[2012/7/9 15:15] DEL LASTUPDATE
+[2012/7/9 15:15] Awesomebar integration is off, disabled via prefs.
+[2012/7/9 15:15] Done loading ybookmarks
+[2012/7/9 15:15] Sidebar loaded
+[2012/7/9 15:15] ssrdelicious.cred.observe:QI failed
+[2012/7/9 15:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/7/9 15:15] DEL LASTUPDATE
+[2012/7/9 15:15] Delayed load done ybookmarks
+[2012/7/9 15:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/7/9 15:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2012/7/9 15:15] DEL LASTUPDATE
+[2012/7/9 15:15] Delayed load done ybookmarks
+[2012/7/9 15:16] RD: The entire cookie store has been cleared
+[2012/7/9 15:16] idManager.js::YBidManager::_loggedOut
+[2012/7/9 15:16] idManager.js::YBidManager::_isEngineInstalled()=>newVersionNum= 2.1.106
+[2012/7/9 15:16] idManager.js::YBidManager::_isEngineInstalled()=>oldVersionNum= 2.1.106
+[2012/7/9 15:16] idManager.js::YBidManager::_isEngineInstalled()=>Engine installed
+[2012/7/9 15:16] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: <TOP_LEVEL> :: line 507"  data: no]
+[2012/7/9 15:16] TypeError: document.getElementById("yb-context-tagCurrent-aftersearch") is null
+[2014/6/25 10:8] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2014/6/25 10:8] *********** OS: Macintosh  FX VER: 30.0 *************
+[2014/6/25 10:8] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2014/6/25 10:8] ssrDelicious::=> No user cookie found.
+[2014/6/25 10:8] Request timeout period:90
+[2014/6/25 10:8] DEL getNetworkProviders
+[2014/6/25 10:8] TypeError: document.getElementById(...) is null
+[2014/6/25 10:8] DEL LASTUPDATE
+[2014/6/25 10:8] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/6/25 10:8] Awesomebar integration is off, disabled via prefs.
+[2014/6/25 10:8] Old transaction table is not present
+[2014/6/25 10:8] Old transaction table doesn't exist, No need of migration
+[2014/6/25 10:8] YDelLocalStore::startTime Timer initiated
+[2014/6/25 10:8] Done loading ybookmarks
+[2014/6/25 10:8] No username found
+[2014/6/25 10:8] Inside AddHooks.
+[2014/6/25 10:8] Adding Livemark Hook.
+[2014/6/25 10:8] Adding ShortuctURI Hook.
+[2014/6/25 10:8] DEL LASTUPDATE
+[2014/6/25 10:8] Awesomebar integration is off, disabled via prefs.
+[2014/6/25 10:8] Done loading ybookmarks
+[2014/6/25 10:8] Sidebar loaded
+[2014/6/25 10:8] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/25 10:8] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/25 10:8] DEL LASTUPDATE
+[2014/6/25 10:8] Delayed load done ybookmarks
+[2014/6/25 10:8] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/25 10:8] DEL LASTUPDATE
+[2014/6/25 10:8] Delayed load done ybookmarks
+[2014/6/25 10:10] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2014/6/25 10:10] TypeError: document.getElementById(...) is null
+[2014/6/25 10:10] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2014/6/25 10:10] *********** OS: Macintosh  FX VER: 30.0 *************
+[2014/6/25 10:10] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2014/6/25 10:10] ssrDelicious::=> No user cookie found.
+[2014/6/25 10:10] Request timeout period:90
+[2014/6/25 10:10] DEL getNetworkProviders
+[2014/6/25 10:10] TypeError: document.getElementById(...) is null
+[2014/6/25 10:10] DEL LASTUPDATE
+[2014/6/25 10:10] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/6/25 10:10] Awesomebar integration is off, disabled via prefs.
+[2014/6/25 10:10] Old transaction table is not present
+[2014/6/25 10:10] Old transaction table doesn't exist, No need of migration
+[2014/6/25 10:10] YDelLocalStore::startTime Timer initiated
+[2014/6/25 10:10] Done loading ybookmarks
+[2014/6/25 10:10] No username found
+[2014/6/25 10:10] Inside AddHooks.
+[2014/6/25 10:10] Adding Livemark Hook.
+[2014/6/25 10:10] Adding ShortuctURI Hook.
+[2014/6/25 10:10] DEL LASTUPDATE
+[2014/6/25 10:10] Awesomebar integration is off, disabled via prefs.
+[2014/6/25 10:10] Done loading ybookmarks
+[2014/6/25 10:10] Sidebar loaded
+[2014/6/25 10:10] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/25 10:10] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/25 10:10] DEL LASTUPDATE
+[2014/6/25 10:10] Delayed load done ybookmarks
+[2014/6/25 10:10] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/25 10:10] DEL LASTUPDATE
+[2014/6/25 10:10] Delayed load done ybookmarks
+[2014/6/25 10:10] ssrdelicious.cred.observe:QI failed
+[2014/6/25 10:11] ssrdelicious.cred.observe:QI failed
+[2014/6/25 10:11] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2014/6/25 10:11] TypeError: document.getElementById(...) is null
+[2014/6/25 10:11] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2014/6/25 10:11] *********** OS: Macintosh  FX VER: 30.0 *************
+[2014/6/25 10:11] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2014/6/25 10:11] ssrDelicious::=> No user cookie found.
+[2014/6/25 10:11] Request timeout period:90
+[2014/6/25 10:11] DEL getNetworkProviders
+[2014/6/25 10:11] TypeError: document.getElementById(...) is null
+[2014/6/25 10:11] DEL LASTUPDATE
+[2014/6/25 10:11] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/6/25 10:11] Awesomebar integration is off, disabled via prefs.
+[2014/6/25 10:11] Old transaction table is not present
+[2014/6/25 10:11] Old transaction table doesn't exist, No need of migration
+[2014/6/25 10:11] YDelLocalStore::startTime Timer initiated
+[2014/6/25 10:11] Done loading ybookmarks
+[2014/6/25 10:11] No username found
+[2014/6/25 10:11] Inside AddHooks.
+[2014/6/25 10:11] Adding Livemark Hook.
+[2014/6/25 10:11] Adding ShortuctURI Hook.
+[2014/6/25 10:11] DEL LASTUPDATE
+[2014/6/25 10:11] Awesomebar integration is off, disabled via prefs.
+[2014/6/25 10:11] Done loading ybookmarks
+[2014/6/25 10:11] Sidebar loaded
+[2014/6/25 10:11] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/25 10:11] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2014/6/25 10:11] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/25 10:11] DEL LASTUPDATE
+[2014/6/25 10:11] Delayed load done ybookmarks
+[2014/6/25 10:11] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/25 10:11] DEL LASTUPDATE
+[2014/6/25 10:11] Delayed load done ybookmarks
+[2014/6/25 10:12] ssrdelicious.cred.observe:QI failed
+[2014/6/25 10:14] TypeError: document.getElementById(...) is null
+[2014/6/25 10:14] No username found
+[2014/6/25 10:14] Inside AddHooks.
+[2014/6/25 10:14] Not adding Hook, Mac special case.
+[2014/6/25 10:14] DEL LASTUPDATE
+[2014/6/25 10:14] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/6/25 10:14] Awesomebar integration is off, disabled via prefs.
+[2014/6/25 10:14] Done loading ybookmarks
+[2014/6/25 10:14] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/25 10:14] DEL LASTUPDATE
+[2014/6/25 10:14] Delayed load done ybookmarks
+[2014/6/25 10:14] TypeError: document.getElementById(...) is null
+[2014/6/25 10:14] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2014/6/25 10:14] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2014/6/25 10:14] TypeError: document.getElementById(...) is null
+[2014/6/26 13:14] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2014/6/26 13:14] *********** OS: Macintosh  FX VER: 30.0 *************
+[2014/6/26 13:14] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2014/6/26 13:14] ssrDelicious::=> No user cookie found.
+[2014/6/26 13:14] Request timeout period:90
+[2014/6/26 13:14] DEL getNetworkProviders
+[2014/6/26 13:14] TypeError: document.getElementById(...) is null
+[2014/6/26 13:14] DEL LASTUPDATE
+[2014/6/26 13:14] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/6/26 13:14] Awesomebar integration is off, disabled via prefs.
+[2014/6/26 13:14] Old transaction table is not present
+[2014/6/26 13:14] Old transaction table doesn't exist, No need of migration
+[2014/6/26 13:14] YDelLocalStore::startTime Timer initiated
+[2014/6/26 13:14] Done loading ybookmarks
+[2014/6/26 13:14] No username found
+[2014/6/26 13:14] Inside AddHooks.
+[2014/6/26 13:14] Adding Livemark Hook.
+[2014/6/26 13:14] Adding ShortuctURI Hook.
+[2014/6/26 13:14] DEL LASTUPDATE
+[2014/6/26 13:14] Awesomebar integration is off, disabled via prefs.
+[2014/6/26 13:14] Done loading ybookmarks
+[2014/6/26 13:14] Sidebar loaded
+[2014/6/26 13:14] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/26 13:14] DEL LASTUPDATE
+[2014/6/26 13:14] Delayed load done ybookmarks
+[2014/6/26 13:14] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/26 13:14] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/26 13:14] DEL LASTUPDATE
+[2014/6/26 13:14] Delayed load done ybookmarks
+[2014/6/26 18:11] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2014/6/26 18:11] TypeError: document.getElementById(...) is null
+[2014/6/27 11:40] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2014/6/27 11:40] *********** OS: Macintosh  FX VER: 30.0 *************
+[2014/6/27 11:40] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2014/6/27 11:40] ssrDelicious::=> No user cookie found.
+[2014/6/27 11:40] Request timeout period:90
+[2014/6/27 11:40] DEL getNetworkProviders
+[2014/6/27 11:40] TypeError: document.getElementById(...) is null
+[2014/6/27 11:40] DEL LASTUPDATE
+[2014/6/27 11:40] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/6/27 11:40] Awesomebar integration is off, disabled via prefs.
+[2014/6/27 11:40] Old transaction table is not present
+[2014/6/27 11:40] Old transaction table doesn't exist, No need of migration
+[2014/6/27 11:40] YDelLocalStore::startTime Timer initiated
+[2014/6/27 11:40] Done loading ybookmarks
+[2014/6/27 11:40] No username found
+[2014/6/27 11:40] Inside AddHooks.
+[2014/6/27 11:40] Adding Livemark Hook.
+[2014/6/27 11:40] Adding ShortuctURI Hook.
+[2014/6/27 11:40] DEL LASTUPDATE
+[2014/6/27 11:40] Awesomebar integration is off, disabled via prefs.
+[2014/6/27 11:40] Done loading ybookmarks
+[2014/6/27 11:40] Sidebar loaded
+[2014/6/27 11:40] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/27 11:40] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/27 11:40] DEL LASTUPDATE
+[2014/6/27 11:40] Delayed load done ybookmarks
+[2014/6/27 11:40] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/6/27 11:40] DEL LASTUPDATE
+[2014/6/27 11:40] Delayed load done ybookmarks
+[2014/6/27 18:13] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2014/6/27 18:13] TypeError: document.getElementById(...) is null
+[2014/7/29 13:52] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2014/7/29 13:52] *********** OS: Macintosh  FX VER: 30.0 *************
+[2014/7/29 13:52] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2014/7/29 13:52] ssrDelicious::=> No user cookie found.
+[2014/7/29 13:52] Request timeout period:90
+[2014/7/29 13:52] DEL getNetworkProviders
+[2014/7/29 13:52] TypeError: document.getElementById(...) is null
+[2014/7/29 13:52] DEL LASTUPDATE
+[2014/7/29 13:52] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/7/29 13:52] Awesomebar integration is off, disabled via prefs.
+[2014/7/29 13:52] Old transaction table is not present
+[2014/7/29 13:52] Old transaction table doesn't exist, No need of migration
+[2014/7/29 13:52] YDelLocalStore::startTime Timer initiated
+[2014/7/29 13:52] Done loading ybookmarks
+[2014/7/29 13:52] No username found
+[2014/7/29 13:52] Inside AddHooks.
+[2014/7/29 13:52] Adding Livemark Hook.
+[2014/7/29 13:52] Adding ShortuctURI Hook.
+[2014/7/29 13:52] DEL LASTUPDATE
+[2014/7/29 13:52] Awesomebar integration is off, disabled via prefs.
+[2014/7/29 13:52] Done loading ybookmarks
+[2014/7/29 13:52] Sidebar loaded
+[2014/7/29 13:52] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/7/29 13:52] DEL LASTUPDATE
+[2014/7/29 13:52] Delayed load done ybookmarks
+[2014/7/29 13:52] ssrdelicious.cred.observe:QI failed
+[2014/7/29 13:53] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2014/7/29 13:53] TypeError: document.getElementById(...) is null
+[2014/7/29 14:36] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2014/7/29 14:36] *********** OS: Macintosh  FX VER: 30.0 *************
+[2014/7/29 14:36] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2014/7/29 14:36] ssrDelicious::=> No user cookie found.
+[2014/7/29 14:36] Request timeout period:90
+[2014/7/29 14:36] DEL getNetworkProviders
+[2014/7/29 14:36] TypeError: document.getElementById(...) is null
+[2014/7/29 14:36] DEL LASTUPDATE
+[2014/7/29 14:36] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/7/29 14:36] Awesomebar integration is off, disabled via prefs.
+[2014/7/29 14:36] Old transaction table is not present
+[2014/7/29 14:36] Old transaction table doesn't exist, No need of migration
+[2014/7/29 14:36] YDelLocalStore::startTime Timer initiated
+[2014/7/29 14:36] Done loading ybookmarks
+[2014/7/29 14:36] No username found
+[2014/7/29 14:36] Inside AddHooks.
+[2014/7/29 14:36] Adding Livemark Hook.
+[2014/7/29 14:36] Adding ShortuctURI Hook.
+[2014/7/29 14:36] DEL LASTUPDATE
+[2014/7/29 14:36] Awesomebar integration is off, disabled via prefs.
+[2014/7/29 14:36] Done loading ybookmarks
+[2014/7/29 14:36] Sidebar loaded
+[2014/7/29 14:36] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/7/29 14:36] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/7/29 14:36] DEL LASTUPDATE
+[2014/7/29 14:36] Delayed load done ybookmarks
+[2014/7/29 14:36] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/7/29 14:36] DEL LASTUPDATE
+[2014/7/29 14:36] Delayed load done ybookmarks
+[2014/7/29 14:36] ssrdelicious.cred.observe:QI failed
+[2014/7/29 14:36] ssrdelicious.cred.observe:QI failed
+[2014/7/29 14:36] ssrdelicious.cred.observe:QI failed
+[2014/7/29 14:37] RD: The entire cookie store has been cleared
+[2014/7/29 14:37] idManager.js::YBidManager::_loggedOut
+[2014/7/29 14:37] idManager.js::YBidManager::_isEngineInstalled()=>newVersionNum= 2.1.106
+[2014/7/29 14:37] idManager.js::YBidManager::_isEngineInstalled()=>oldVersionNum= 2.1.106
+[2014/7/29 14:37] idManager.js::YBidManager::_isEngineInstalled()=>Engine installed
+[2014/7/29 14:37] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2014/7/29 14:37] TypeError: document.getElementById(...) is null
+[2014/8/4 11:52] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2014/8/4 11:52] *********** OS: Macintosh  FX VER: 30.0 *************
+[2014/8/4 11:52] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2014/8/4 11:52] ssrDelicious::=> No user cookie found.
+[2014/8/4 11:52] Request timeout period:90
+[2014/8/4 11:52] DEL getNetworkProviders
+[2014/8/4 11:52] TypeError: document.getElementById(...) is null
+[2014/8/4 11:52] DEL LASTUPDATE
+[2014/8/4 11:52] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/8/4 11:52] Awesomebar integration is off, disabled via prefs.
+[2014/8/4 11:52] Old transaction table is not present
+[2014/8/4 11:52] Old transaction table doesn't exist, No need of migration
+[2014/8/4 11:52] YDelLocalStore::startTime Timer initiated
+[2014/8/4 11:52] Done loading ybookmarks
+[2014/8/4 11:52] No username found
+[2014/8/4 11:52] Inside AddHooks.
+[2014/8/4 11:52] Adding Livemark Hook.
+[2014/8/4 11:52] Adding ShortuctURI Hook.
+[2014/8/4 11:52] DEL LASTUPDATE
+[2014/8/4 11:52] Awesomebar integration is off, disabled via prefs.
+[2014/8/4 11:52] Done loading ybookmarks
+[2014/8/4 11:52] Sidebar loaded
+[2014/8/4 11:52] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/8/4 11:52] DEL LASTUPDATE
+[2014/8/4 11:52] Delayed load done ybookmarks
+[2014/8/4 11:52] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/8/4 11:52] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2014/8/4 11:52] TypeError: document.getElementById(...) is null
+[2014/8/4 12:45] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2014/8/4 12:45] *********** OS: Macintosh  FX VER: 30.0 *************
+[2014/8/4 12:45] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2014/8/4 12:45] ssrDelicious::=> No user cookie found.
+[2014/8/4 12:45] Request timeout period:90
+[2014/8/4 12:45] DEL getNetworkProviders
+[2014/8/4 12:45] TypeError: document.getElementById(...) is null
+[2014/8/4 12:45] DEL LASTUPDATE
+[2014/8/4 12:45] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/8/4 12:45] Awesomebar integration is off, disabled via prefs.
+[2014/8/4 12:45] Old transaction table is not present
+[2014/8/4 12:45] Old transaction table doesn't exist, No need of migration
+[2014/8/4 12:45] YDelLocalStore::startTime Timer initiated
+[2014/8/4 12:45] Done loading ybookmarks
+[2014/8/4 12:45] No username found
+[2014/8/4 12:45] Inside AddHooks.
+[2014/8/4 12:45] Adding Livemark Hook.
+[2014/8/4 12:45] Adding ShortuctURI Hook.
+[2014/8/4 12:45] DEL LASTUPDATE
+[2014/8/4 12:45] Awesomebar integration is off, disabled via prefs.
+[2014/8/4 12:45] Done loading ybookmarks
+[2014/8/4 12:45] Sidebar loaded
+[2014/8/4 12:45] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/8/4 12:46] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/8/4 12:46] DEL LASTUPDATE
+[2014/8/4 12:46] Delayed load done ybookmarks
+[2014/8/4 12:46] ssrdelicious.cred.observe:QI failed
+[2014/8/4 12:46] ssrdelicious.cred.observe:QI failed
+[2014/8/4 12:46] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/8/4 12:46] DEL LASTUPDATE
+[2014/8/4 12:46] Delayed load done ybookmarks
+[2014/8/4 12:46] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2014/8/4 12:46] TypeError: document.getElementById(...) is null
+[2014/8/4 12:52] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2014/8/4 12:52] *********** OS: Macintosh  FX VER: 30.0 *************
+[2014/8/4 12:52] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2014/8/4 12:52] ssrDelicious::=> No user cookie found.
+[2014/8/4 12:52] Request timeout period:90
+[2014/8/4 12:52] DEL getNetworkProviders
+[2014/8/4 12:52] TypeError: document.getElementById(...) is null
+[2014/8/4 12:52] DEL LASTUPDATE
+[2014/8/4 12:52] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/8/4 12:52] Awesomebar integration is off, disabled via prefs.
+[2014/8/4 12:52] Old transaction table is not present
+[2014/8/4 12:52] Old transaction table doesn't exist, No need of migration
+[2014/8/4 12:52] YDelLocalStore::startTime Timer initiated
+[2014/8/4 12:52] Done loading ybookmarks
+[2014/8/4 12:52] No username found
+[2014/8/4 12:52] Inside AddHooks.
+[2014/8/4 12:52] Adding Livemark Hook.
+[2014/8/4 12:52] Adding ShortuctURI Hook.
+[2014/8/4 12:52] DEL LASTUPDATE
+[2014/8/4 12:52] Awesomebar integration is off, disabled via prefs.
+[2014/8/4 12:52] Done loading ybookmarks
+[2014/8/4 12:52] Sidebar loaded
+[2014/8/4 12:52] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/8/4 12:52] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/8/4 12:52] DEL LASTUPDATE
+[2014/8/4 12:52] Delayed load done ybookmarks
+[2014/8/4 12:52] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/8/4 12:52] DEL LASTUPDATE
+[2014/8/4 12:52] Delayed load done ybookmarks
+[2014/8/4 12:56] No username found
+[2014/8/4 12:56] Inside AddHooks.
+[2014/8/4 12:56] Adding Livemark Hook.
+[2014/8/4 12:56] Adding ShortuctURI Hook.
+[2014/8/4 12:56] DEL LASTUPDATE
+[2014/8/4 12:56] Awesomebar integration is off, disabled via prefs.
+[2014/8/4 12:56] Done loading ybookmarks
+[2014/8/4 12:56] Sidebar loaded
+[2014/8/4 12:56] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/8/4 12:56] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2014/8/4 12:56] TypeError: document.getElementById(...) is null
+[2014/12/1 14:15] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2014/12/1 14:15] *********** OS: Macintosh  FX VER: 30.0 *************
+[2014/12/1 14:15] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2014/12/1 14:15] ssrDelicious::=> No user cookie found.
+[2014/12/1 14:15] Request timeout period:90
+[2014/12/1 14:15] DEL getNetworkProviders
+[2014/12/1 14:15] TypeError: document.getElementById(...) is null
+[2014/12/1 14:15] DEL LASTUPDATE
+[2014/12/1 14:15] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/12/1 14:15] Awesomebar integration is off, disabled via prefs.
+[2014/12/1 14:15] Old transaction table is not present
+[2014/12/1 14:15] Old transaction table doesn't exist, No need of migration
+[2014/12/1 14:15] YDelLocalStore::startTime Timer initiated
+[2014/12/1 14:15] Done loading ybookmarks
+[2014/12/1 14:15] No username found
+[2014/12/1 14:15] Inside AddHooks.
+[2014/12/1 14:15] Adding Livemark Hook.
+[2014/12/1 14:15] Adding ShortuctURI Hook.
+[2014/12/1 14:15] DEL LASTUPDATE
+[2014/12/1 14:15] Awesomebar integration is off, disabled via prefs.
+[2014/12/1 14:15] Done loading ybookmarks
+[2014/12/1 14:15] Sidebar loaded
+[2014/12/1 14:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/12/1 14:15] DEL LASTUPDATE
+[2014/12/1 14:15] Delayed load done ybookmarks
+[2014/12/1 14:15] TypeError: document.getElementById(...) is null
+[2014/12/1 14:15] DEL LASTUPDATE
+[2014/12/1 14:15] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/12/1 14:15] Awesomebar integration is off, disabled via prefs.
+[2014/12/1 14:15] Done loading ybookmarks
+[2014/12/1 14:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/12/1 14:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/12/1 14:15] DEL LASTUPDATE
+[2014/12/1 14:15] Delayed load done ybookmarks
+[2014/12/1 14:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/12/1 14:15] DEL LASTUPDATE
+[2014/12/1 14:15] Delayed load done ybookmarks
+[2014/12/1 14:15] TypeError: document.getElementById(...) is null
+[2014/12/1 14:15] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2014/12/1 14:15] TypeError: document.getElementById(...) is null
+[2014/12/1 14:18] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2014/12/1 14:18] *********** OS: Macintosh  FX VER: 34.0.5 *************
+[2014/12/1 14:18] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:34.0) Gecko/20100101 Firefox/34.0 *************
+[2014/12/1 14:18] ssrDelicious::=> No user cookie found.
+[2014/12/1 14:18] Request timeout period:90
+[2014/12/1 14:18] DEL getNetworkProviders
+[2014/12/1 14:18] TypeError: document.getElementById(...) is null
+[2014/12/1 14:18] DEL LASTUPDATE
+[2014/12/1 14:18] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/12/1 14:18] Awesomebar integration is off, disabled via prefs.
+[2014/12/1 14:18] Old transaction table is not present
+[2014/12/1 14:18] Old transaction table doesn't exist, No need of migration
+[2014/12/1 14:18] YDelLocalStore::startTime Timer initiated
+[2014/12/1 14:18] Done loading ybookmarks
+[2014/12/1 14:18] No username found
+[2014/12/1 14:18] Inside AddHooks.
+[2014/12/1 14:18] Adding Livemark Hook.
+[2014/12/1 14:18] Adding ShortuctURI Hook.
+[2014/12/1 14:18] DEL LASTUPDATE
+[2014/12/1 14:18] Awesomebar integration is off, disabled via prefs.
+[2014/12/1 14:18] Done loading ybookmarks
+[2014/12/1 14:18] Sidebar loaded
+[2014/12/1 14:18] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/12/1 14:18] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/12/1 14:18] DEL LASTUPDATE
+[2014/12/1 14:18] Delayed load done ybookmarks
+[2014/12/1 14:18] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/12/1 14:18] DEL LASTUPDATE
+[2014/12/1 14:18] Delayed load done ybookmarks
+[2014/12/1 14:18] TypeError: document.getElementById(...) is null
+[2014/12/1 14:18] DEL LASTUPDATE
+[2014/12/1 14:18] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2014/12/1 14:18] Awesomebar integration is off, disabled via prefs.
+[2014/12/1 14:18] Done loading ybookmarks
+[2014/12/1 14:18] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2014/12/1 14:18] DEL LASTUPDATE
+[2014/12/1 14:18] Delayed load done ybookmarks
+[2014/12/1 14:18] TypeError: document.getElementById(...) is null
+[2014/12/1 14:18] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2014/12/1 14:18] TypeError: document.getElementById(...) is null
+[2015/8/19 13:44] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2015/8/19 13:44] *********** OS: Macintosh  FX VER: 34.0.5 *************
+[2015/8/19 13:44] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:34.0) Gecko/20100101 Firefox/34.0 *************
+[2015/8/19 13:44] ssrDelicious::=> No user cookie found.
+[2015/8/19 13:44] Request timeout period:90
+[2015/8/19 13:44] DEL getNetworkProviders
+[2015/8/19 13:44] TypeError: document.getElementById(...) is null
+[2015/8/19 13:44] DEL LASTUPDATE
+[2015/8/19 13:44] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2015/8/19 13:44] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 13:44] Old transaction table is not present
+[2015/8/19 13:44] Old transaction table doesn't exist, No need of migration
+[2015/8/19 13:44] YDelLocalStore::startTime Timer initiated
+[2015/8/19 13:44] Done loading ybookmarks
+[2015/8/19 13:44] No username found
+[2015/8/19 13:44] Inside AddHooks.
+[2015/8/19 13:44] Adding Livemark Hook.
+[2015/8/19 13:44] Adding ShortuctURI Hook.
+[2015/8/19 13:44] DEL LASTUPDATE
+[2015/8/19 13:44] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 13:44] Done loading ybookmarks
+[2015/8/19 13:44] Sidebar loaded
+[2015/8/19 13:44] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 13:44] DEL LASTUPDATE
+[2015/8/19 13:44] Delayed load done ybookmarks
+[2015/8/19 13:44] ssrdelicious.cred.observe:QI failed
+[2015/8/19 13:44] ssrdelicious.cred.observe:QI failed
+[2015/8/19 13:44] ssrdelicious.cred.observe:QI failed
+[2015/8/19 13:44] ssrdelicious.cred.observe:QI failed
+[2015/8/19 13:47] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 13:47] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 13:47] DEL LASTUPDATE
+[2015/8/19 13:47] Delayed load done ybookmarks
+[2015/8/19 14:7] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2015/8/19 14:11] No username found
+[2015/8/19 14:11] Inside AddHooks.
+[2015/8/19 14:11] Adding Livemark Hook.
+[2015/8/19 14:11] Adding ShortuctURI Hook.
+[2015/8/19 14:11] DEL LASTUPDATE
+[2015/8/19 14:11] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 14:11] Done loading ybookmarks
+[2015/8/19 14:11] Sidebar loaded
+[2015/8/19 14:11] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:11] DEL LASTUPDATE
+[2015/8/19 14:11] Delayed load done ybookmarks
+[2015/8/19 14:11] ssrdelicious.cred.observe:QI failed
+[2015/8/19 14:11] ssrdelicious.cred.observe:QI failed
+[2015/8/19 14:11] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2015/8/19 14:11] TypeError: document.getElementById(...) is null
+[2015/8/19 14:13] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2015/8/19 14:13] *********** OS: Macintosh  FX VER: 30.0 *************
+[2015/8/19 14:13] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2015/8/19 14:13] ssrDelicious::=> No user cookie found.
+[2015/8/19 14:13] Request timeout period:90
+[2015/8/19 14:13] DEL getNetworkProviders
+[2015/8/19 14:13] TypeError: document.getElementById(...) is null
+[2015/8/19 14:13] DEL LASTUPDATE
+[2015/8/19 14:13] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2015/8/19 14:13] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 14:13] Old transaction table is not present
+[2015/8/19 14:13] Old transaction table doesn't exist, No need of migration
+[2015/8/19 14:13] YDelLocalStore::startTime Timer initiated
+[2015/8/19 14:13] Done loading ybookmarks
+[2015/8/19 14:13] No username found
+[2015/8/19 14:13] Inside AddHooks.
+[2015/8/19 14:13] Adding Livemark Hook.
+[2015/8/19 14:13] Adding ShortuctURI Hook.
+[2015/8/19 14:13] DEL LASTUPDATE
+[2015/8/19 14:13] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 14:13] Done loading ybookmarks
+[2015/8/19 14:13] Sidebar loaded
+[2015/8/19 14:13] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:13] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:13] DEL LASTUPDATE
+[2015/8/19 14:13] Delayed load done ybookmarks
+[2015/8/19 14:13] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:13] DEL LASTUPDATE
+[2015/8/19 14:13] Delayed load done ybookmarks
+[2015/8/19 14:13] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2015/8/19 14:13] TypeError: document.getElementById(...) is null
+[2015/8/19 14:14] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2015/8/19 14:14] *********** OS: Macintosh  FX VER: 30.0 *************
+[2015/8/19 14:14] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0 *************
+[2015/8/19 14:14] ssrDelicious::=> No user cookie found.
+[2015/8/19 14:14] Request timeout period:90
+[2015/8/19 14:14] DEL getNetworkProviders
+[2015/8/19 14:14] TypeError: document.getElementById(...) is null
+[2015/8/19 14:14] DEL LASTUPDATE
+[2015/8/19 14:14] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2015/8/19 14:14] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 14:14] Old transaction table is not present
+[2015/8/19 14:14] Old transaction table doesn't exist, No need of migration
+[2015/8/19 14:14] YDelLocalStore::startTime Timer initiated
+[2015/8/19 14:14] Done loading ybookmarks
+[2015/8/19 14:14] No username found
+[2015/8/19 14:14] Inside AddHooks.
+[2015/8/19 14:14] Adding Livemark Hook.
+[2015/8/19 14:14] Adding ShortuctURI Hook.
+[2015/8/19 14:14] DEL LASTUPDATE
+[2015/8/19 14:14] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 14:14] Done loading ybookmarks
+[2015/8/19 14:14] Sidebar loaded
+[2015/8/19 14:14] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:14] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:14] DEL LASTUPDATE
+[2015/8/19 14:14] Delayed load done ybookmarks
+[2015/8/19 14:14] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:14] DEL LASTUPDATE
+[2015/8/19 14:14] Delayed load done ybookmarks
+[2015/8/19 14:15] TypeError: document.getElementById(...) is null
+[2015/8/19 14:15] DEL LASTUPDATE
+[2015/8/19 14:15] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2015/8/19 14:15] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 14:15] Done loading ybookmarks
+[2015/8/19 14:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:15] DEL LASTUPDATE
+[2015/8/19 14:15] Delayed load done ybookmarks
+[2015/8/19 14:15] TypeError: document.getElementById(...) is null
+[2015/8/19 14:15] TypeError: document.getElementById(...) is null
+[2015/8/19 14:15] DEL LASTUPDATE
+[2015/8/19 14:15] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2015/8/19 14:15] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 14:15] Done loading ybookmarks
+[2015/8/19 14:15] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2015/8/19 14:15] TypeError: document.getElementById(...) is null
+[2015/8/19 14:15] TypeError: document.getElementById(...) is null
+[2015/8/19 14:15] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2015/8/19 14:15] *********** OS: Macintosh  FX VER: 40.0.2 *************
+[2015/8/19 14:15] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:40.0) Gecko/20100101 Firefox/40.0 *************
+[2015/8/19 14:15] ssrDelicious::=> No user cookie found.
+[2015/8/19 14:15] Request timeout period:90
+[2015/8/19 14:15] DEL getNetworkProviders
+[2015/8/19 14:15] TypeError: document.getElementById(...) is null
+[2015/8/19 14:15] DEL LASTUPDATE
+[2015/8/19 14:15] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2015/8/19 14:15] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 14:15] Old transaction table is not present
+[2015/8/19 14:15] Old transaction table doesn't exist, No need of migration
+[2015/8/19 14:15] YDelLocalStore::startTime Timer initiated
+[2015/8/19 14:15] Done loading ybookmarks
+[2015/8/19 14:15] No username found
+[2015/8/19 14:15] Inside AddHooks.
+[2015/8/19 14:15] Adding Livemark Hook.
+[2015/8/19 14:15] Adding ShortuctURI Hook.
+[2015/8/19 14:15] DEL LASTUPDATE
+[2015/8/19 14:15] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 14:15] Done loading ybookmarks
+[2015/8/19 14:15] Sidebar loaded
+[2015/8/19 14:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:15] DEL LASTUPDATE
+[2015/8/19 14:15] Delayed load done ybookmarks
+[2015/8/19 14:15] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:15] DEL LASTUPDATE
+[2015/8/19 14:15] Delayed load done ybookmarks
+[2015/8/19 14:16] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2015/8/19 14:16] TypeError: document.getElementById(...) is null
+[2015/8/19 14:21] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2015/8/19 14:21] *********** OS: Macintosh  FX VER: 40.0.2 *************
+[2015/8/19 14:21] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:40.0) Gecko/20100101 Firefox/40.0 *************
+[2015/8/19 14:21] ssrDelicious::=> No user cookie found.
+[2015/8/19 14:21] Request timeout period:90
+[2015/8/19 14:21] DEL getNetworkProviders
+[2015/8/19 14:21] TypeError: document.getElementById(...) is null
+[2015/8/19 14:21] DEL LASTUPDATE
+[2015/8/19 14:21] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2015/8/19 14:21] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 14:21] Old transaction table is not present
+[2015/8/19 14:21] Old transaction table doesn't exist, No need of migration
+[2015/8/19 14:21] YDelLocalStore::startTime Timer initiated
+[2015/8/19 14:21] Done loading ybookmarks
+[2015/8/19 14:21] No username found
+[2015/8/19 14:21] Inside AddHooks.
+[2015/8/19 14:21] Adding Livemark Hook.
+[2015/8/19 14:21] Adding ShortuctURI Hook.
+[2015/8/19 14:21] DEL LASTUPDATE
+[2015/8/19 14:21] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 14:21] Done loading ybookmarks
+[2015/8/19 14:21] Sidebar loaded
+[2015/8/19 14:21] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:21] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:21] DEL LASTUPDATE
+[2015/8/19 14:21] Delayed load done ybookmarks
+[2015/8/19 14:21] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 14:21] DEL LASTUPDATE
+[2015/8/19 14:21] Delayed load done ybookmarks
+[2015/8/19 16:47] No username found
+[2015/8/19 16:47] Inside AddHooks.
+[2015/8/19 16:47] Adding Livemark Hook.
+[2015/8/19 16:47] Adding ShortuctURI Hook.
+[2015/8/19 16:47] DEL LASTUPDATE
+[2015/8/19 16:47] Awesomebar integration is off, disabled via prefs.
+[2015/8/19 16:47] Done loading ybookmarks
+[2015/8/19 16:47] Sidebar loaded
+[2015/8/19 16:47] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 16:47] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/19 16:47] DEL LASTUPDATE
+[2015/8/19 16:47] Delayed load done ybookmarks
+[2015/8/19 16:47] ssrdelicious.cred.observe:QI failed
+[2015/8/19 16:47] ssrdelicious.cred.observe:QI failed
+[2015/8/19 16:47] ssrdelicious.cred.observe:QI failed
+[2015/8/19 16:48] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2015/8/19 16:48] TypeError: document.getElementById(...) is null
+[2015/8/20 9:28] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2015/8/20 9:28] *********** OS: Macintosh  FX VER: 40.0.2 *************
+[2015/8/20 9:28] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:40.0) Gecko/20100101 Firefox/40.0 *************
+[2015/8/20 9:28] ssrDelicious::=> No user cookie found.
+[2015/8/20 9:28] Request timeout period:90
+[2015/8/20 9:28] DEL getNetworkProviders
+[2015/8/20 9:28] TypeError: document.getElementById(...) is null
+[2015/8/20 9:28] DEL LASTUPDATE
+[2015/8/20 9:28] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2015/8/20 9:28] Awesomebar integration is off, disabled via prefs.
+[2015/8/20 9:28] Old transaction table is not present
+[2015/8/20 9:28] Old transaction table doesn't exist, No need of migration
+[2015/8/20 9:28] YDelLocalStore::startTime Timer initiated
+[2015/8/20 9:28] Done loading ybookmarks
+[2015/8/20 9:28] No username found
+[2015/8/20 9:28] Inside AddHooks.
+[2015/8/20 9:28] Adding Livemark Hook.
+[2015/8/20 9:28] Adding ShortuctURI Hook.
+[2015/8/20 9:28] DEL LASTUPDATE
+[2015/8/20 9:28] Awesomebar integration is off, disabled via prefs.
+[2015/8/20 9:28] Done loading ybookmarks
+[2015/8/20 9:28] Sidebar loaded
+[2015/8/20 9:28] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/20 9:28] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/20 9:28] DEL LASTUPDATE
+[2015/8/20 9:28] Delayed load done ybookmarks
+[2015/8/20 9:28] ssrdelicious.cred.observe:QI failed
+[2015/8/20 9:28] ssrdelicious.cred.observe:QI failed
+[2015/8/20 9:28] ssrdelicious.cred.observe:QI failed
+[2015/8/20 9:28] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/20 9:28] DEL LASTUPDATE
+[2015/8/20 9:28] Delayed load done ybookmarks
+[2015/8/20 9:28] RD: The entire cookie store has been cleared
+[2015/8/20 9:28] idManager.js::YBidManager::_loggedOut
+[2015/8/20 9:28] idManager.js::YBidManager::_isEngineInstalled()=>newVersionNum= 2.1.106
+[2015/8/20 9:28] idManager.js::YBidManager::_isEngineInstalled()=>oldVersionNum= 2.1.106
+[2015/8/20 9:28] idManager.js::YBidManager::_isEngineInstalled()=>Engine installed
+[2015/8/20 9:28] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2015/8/20 9:28] TypeError: document.getElementById(...) is null
+[2015/8/20 14:48] *********** LOG CREATED. EXT VER: 2.1.106 *************
+[2015/8/20 14:48] *********** OS: Macintosh  FX VER: 40.0.2 *************
+[2015/8/20 14:48] *********** User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:40.0) Gecko/20100101 Firefox/40.0 *************
+[2015/8/20 14:48] ssrDelicious::=> No user cookie found.
+[2015/8/20 14:48] Request timeout period:90
+[2015/8/20 14:48] DEL getNetworkProviders
+[2015/8/20 14:48] TypeError: document.getElementById(...) is null
+[2015/8/20 14:48] DEL LASTUPDATE
+[2015/8/20 14:48] ybookmarksOverlay.js::doFF3Extras():: Exception - TypeError: gBrowser is null
+[2015/8/20 14:48] Awesomebar integration is off, disabled via prefs.
+[2015/8/20 14:48] Old transaction table is not present
+[2015/8/20 14:48] Old transaction table doesn't exist, No need of migration
+[2015/8/20 14:48] YDelLocalStore::startTime Timer initiated
+[2015/8/20 14:48] Done loading ybookmarks
+[2015/8/20 14:48] No username found
+[2015/8/20 14:48] Inside AddHooks.
+[2015/8/20 14:48] Adding Livemark Hook.
+[2015/8/20 14:48] Adding ShortuctURI Hook.
+[2015/8/20 14:48] DEL LASTUPDATE
+[2015/8/20 14:48] Awesomebar integration is off, disabled via prefs.
+[2015/8/20 14:48] Done loading ybookmarks
+[2015/8/20 14:48] Sidebar loaded
+[2015/8/20 14:48] urlBarListenerFavIcon.onLinkIconAvailable(): TypeError: aBrowser is null
+[2015/8/20 14:48] ybookmarksOverlay.js::ybookmarksMain::isEngineInstalled()=>Engine installed
+[2015/8/20 14:48] DEL LASTUPDATE
+[2015/8/20 14:48] Delayed load done ybookmarks
+[2015/8/20 14:48] SyncService:=>observe>quit-application-granted : uninstall:Exception[Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getBoolPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: file:///Users/elon/Library/Application%20Support/Firefox/Profiles/ximnpykx.default/extensions/%7B2fa4ed95-0317-4c6a-a74c-5f3e3912c1f9%7D/components/nsYBookmarkSyncService.js :: YBookmarksSyncService.observe :: line 507"  data: no]
+[2015/8/20 14:48] TypeError: document.getElementById(...) is null

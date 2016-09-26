@@ -1,0 +1,8 @@
+#content	diigotb	jar:chrome/diigotb.jar!/content/ xpcnativewrappers=no
+content	diigotb	jar:chrome/diigotb.jar!/content/
+content	diigotb	jar:chrome/diigotb.jar!/content/ contentaccessible=yes
+locale	diigotb	en-US	jar:chrome/diigotb.jar!/locale/en-US/
+
+skin	diigotb	classic/1.0	jar:chrome/diigotb.jar!/skin/
+overlay	chrome://browser/content/browser.xul	chrome://diigotb/content/firefoxOverlay.xul
+style	chrome://global/content/customizeToolbar.xul	chrome://diigotb/skin/base.css

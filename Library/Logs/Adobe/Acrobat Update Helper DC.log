@@ -1,0 +1,30 @@
+Sep 25, 2016, 9:43:28 PM: Log created
+Sep 25, 2016, 9:43:28 PM : **************************
+Sep 25, 2016, 9:43:28 PM : ARMAgent invoked...
+Sep 25, 2016, 9:43:28 PM : process id=6698, path: /Library/Application Support/Adobe/ARMDC/Application/Acrobat Update Helper.app
+Sep 25, 2016, 9:43:29 PM : ** Processing registration information for product com.adobe.reader.dc
+Sep 25, 2016, 9:43:29 PM :    PlistReader : Optional Plist key {ProductName} is not present.
+Sep 25, 2016, 9:43:29 PM :    PlistReader : Optional plist key {VersionExt} is not present.
+Sep 25, 2016, 9:43:29 PM :    PlistReader : Product registration plist parsing done.
+Sep 25, 2016, 9:43:29 PM :    Checking updates for product Adobe Acrobat Reader DC .
+Sep 25, 2016, 9:43:29 PM : URL 'https:/armmf.adobe.com/arm-manifests/mac/AcrobatDC/reader/current_version.txt' contents: '15.017.20053'
+Sep 25, 2016, 9:43:29 PM : Installed app '/Applications/Adobe Acrobat Reader DC.app' version: '15.017.20053'
+Sep 25, 2016, 9:43:29 PM : No update available. Application Adobe Acrobat Reader DC is up-to-date. 
+Sep 25, 2016, 9:43:29 PM : ** Processing registration information for product com.adobe.reader.servicesupdater.dc
+Sep 25, 2016, 9:43:29 PM :    PlistReader : Optional Plist key {ProductName} is not present.
+Sep 25, 2016, 9:43:29 PM :    PlistReader : Product registration plist parsing done.
+Sep 25, 2016, 9:43:29 PM :    Checking updates for product Adobe Acrobat Reader DC .
+Sep 25, 2016, 9:43:29 PM : URL 'https:/armmf.adobe.com/arm-manifests/mac/ServicesUpdater/reader/DC/current_version.txt' contents: '15.007.20033.0'
+Sep 25, 2016, 9:43:29 PM : Installed app '/Applications/Adobe Acrobat Reader DC.app' version: '15.017.20053' versionExt: '15.017.20050.0' 
+Sep 25, 2016, 9:43:29 PM : No update available. Application Adobe Acrobat Reader DC is up-to-date. 
+Sep 25, 2016, 9:43:29 PM : ** ARMAgent: All products are up-to-date, checking self update...
+Sep 25, 2016, 9:43:29 PM : ** Processing registration information for product com.adobe.ARMDCHelper
+Sep 25, 2016, 9:43:29 PM :    PlistReader : Optional Plist key {ProductName} is not present.
+Sep 25, 2016, 9:43:29 PM :    PlistReader : Optional plist key {VersionExt} is not present.
+Sep 25, 2016, 9:43:29 PM :    PlistReader : Optional plist key {FeatureLockDown} is not present.
+Sep 25, 2016, 9:43:29 PM :    PlistReader : Product registration plist parsing done.
+Sep 25, 2016, 9:43:29 PM :    Checking updates for product Acrobat Update Helper .
+Sep 25, 2016, 9:43:29 PM : URL 'https:/armmf.adobe.com/arm-manifests/mac/ARMDC/current_version.txt' contents: '1.0.12'
+Sep 25, 2016, 9:43:29 PM : Installed app '/Library/Application Support/Adobe/ARMDC/Application/Acrobat Update Helper.app' version: '1.0.12'
+Sep 25, 2016, 9:43:29 PM : No update available. Application Acrobat Update Helper is up-to-date. 
+Sep 25, 2016, 9:43:45 PM : ARMAgent done...

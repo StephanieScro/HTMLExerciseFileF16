@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="|Users|sscro|Library|Caches|NetBeans|8.1|remotefiles|04341b54b74b010002afc75ee57a237e.css">
+        <attr name="remote.url" stringvalue="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css"/>
+    </fileobject>
+    <fileobject name="|Users|sscro|Library|Caches|NetBeans|8.1|remotefiles|108ab2c8f1a42b9818f86e045d56efb8.js">
+        <attr name="remote.url" stringvalue="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"/>
+    </fileobject>
+</attributes>

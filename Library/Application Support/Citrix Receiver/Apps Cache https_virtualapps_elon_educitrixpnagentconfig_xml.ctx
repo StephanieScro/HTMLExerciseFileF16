@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NFuseProtocol SYSTEM "NFuse.dtd">
+<NFuseProtocol version="5.4">
+    <ResponseAppData>
+        <AppDataSet>
+            <Scope traverse="onelevel" type="PNFolder"></Scope>
+            <AppData type="app">
+                <InName>Elon XenApp 2015:APX</InName>
+                <FName>Anthropac</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <Folder>Anthropac 2</Folder>
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp 2015</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEPPPPPPPPIIIHHHHHIIPPPPPPPPPPPPPPPPPPPPIHHHHIIIHHHHHIPPPPEEEEEPPPPPPPIIHIIIPPPPPPIHHHIPPPPPPPPPPPPPPIIIPPPPPPPPPPPPIHIPPPEEEEEEEEEPPPPPPPPPPPPPIHIPPPPPPPPPPPPPPPPPPPPPPPPPPPIHHEHPPPPPPPEEEEEEPPPPPPPPPPPPPHHHHIIPIIPPPPPPPPPPPPIPPPPPPPPIHHHPPPIHHHHHPPEEEPPPPIIPPPPPPPPHHIPPPPIPPIHEHPPPPPPPPIIPPPPPPPHHIPPIHIPPPPPIEHPPPPPPIHIPPPPPPIHIPPPEAHPPPPPPEHPPPPPPIIPPPPPPIHIPPPIAEPPPPPPPHEIPPPPIHIPPPPPIHHPPPPHAHPPPPPPPHEIPPPPHHPPPPPPIHIPPPPHAHPPPPPPPEHPPPPIHIPPPPPPIIPPPPPIEEPPPPPPHEIPPPIHIPPPPPPIHIPPPPPPEEHPPPPHEHPPPIHHPPPPPPPIIPPPPPPPIEEEHHEEHPPPIHHPPPPPPPPIIPPPPPPPPPHEEEFHPPIHHHPPPPPPPPPIPPPPPPPPPPPPIIPIIHHHIPPPPPPPPPPPPPPPPPPPPPPPPPPHEHHIPPPPPPPPPPPPPPPPPPPPPPPPPPPIHIPPPPPPPPPPPPPPPPPPPPPPPPPIHIPPPPPPPPPPPPIIIPPPPPPPPPPPPPPIHHHIPPPPPPIIIHIIPPPPPPPPPPPPPPPPIHHHHHHHHHHHIIPPPPPPPPPPPPPPPPPPPPPIIIIHIIIIPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>573645080</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp 2015:VAP_Freelists</InName>
+                <FName>Visual Anthropac-Freelists</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <Folder>Anthropac 2</Folder>
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp 2015</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEPPPPPPPPIIIHHHHHIIPPPPPPPPPPPPPPPPPPPPIHHHHIIIHHHHHIPPPPEEEEEPPPPPPPIIHIIIPPPPPPIHHHIPPPPPPPPPPPPPPIIIPPPPPPPPPPPPIHIPPPEEEEEEEEEPPPPPPPPPPPPPIHIPPPPPPPPPPPPPPPPPPPPPPPPPPPIHHEHPPPPPPPEEEEEEPPPPPPPPPPPPPHHHHIIPIIPPPPPPPPPPPPIPPPPPPPPIHHHPPPIHHHHHPPEEEPPPPIIPPPPPPPPHHIPPPPIPPIHEHPPPPPPPPIIPPPPPPPHHIPPIHIPPPPPIEHPPPPPPIHIPPPPPPIHIPPPEAHPPPPPPEHPPPPPPIIPPPPPPIHIPPPIAEPPPPPPPHEIPPPPIHIPPPPPIHHPPPPHAHPPPPPPPHEIPPPPHHPPPPPPIHIPPPPHAHPPPPPPPEHPPPPIHIPPPPPPIIPPPPPIEEPPPPPPHEIPPPIHIPPPPPPIHIPPPPPPEEHPPPPHEHPPPIHHPPPPPPPIIPPPPPPPIEEEHHEEHPPPIHHPPPPPPPPIIPPPPPPPPPHEEEFHPPIHHHPPPPPPPPPIPPPPPPPPPPPPIIPIIHHHIPPPPPPPPPPPPPPPPPPPPPPPPPPHEHHIPPPPPPPPPPPPPPPPPPPPPPPPPPPIHIPPPPPPPPPPPPPPPPPPPPPPPPPIHIPPPPPPPPPPPPIIIPPPPPPPPPPPPPPIHHHIPPPPPPIIIHIIPPPPPPPPPPPPPPPPIHHHHHHHHHHHIIPPPPPPPPPPPPPPPPPPPPPIIIIHIIIIPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>-1636775113</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp 2015:VAP_Pilesorts</InName>
+                <FName>Visual Anthropac-Pilesorts</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <Folder>Anthropac 2</Folder>
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp 2015</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPIIIHHHHHIIPPPPPPPPPPPPPPPPPPPPIHHHHIIIHHHHHIPPPPPPPPPPPPPPPPIIHIIIPPPPPPIHHHIPPPPPPPPPPPPPPIIIPPPPPPPPPPPPIHIPPPPPPPPPPPPPPPPPPPPPPPPPIHIPPPPPPPPPPPPPPPPPPPPPPPPPPPIHHEHPPPPPPPPPPPPPPPPPPPPPPPPPPHHHHIIPIIPPPPPPPPPPPPIPPPPPPPPIHHHPPPIHHHHHPPPPPPPPPIIPPPPPPPPHHIPPPPIPPIHEHPPPPPPPPIIPPPPPPPHHIPPIHIPPPPPIEHPPPPPPIHIPPPPPPIHIPPPEAHPPPPPPEHPPPPPPIIPPPPPPIHIPPPIAEPPPPPPPHEIPPPPIHIPPPPPIHHPPPPHAHPPPPPPPHEIPPPPHHPPPPPPIHIPPPPHAHPPPPPPPEHPPPPIHIPPPPPPIIPPPPPIEEPPPPPPHEIPPPIHIPPPPPPIHIPPPPPPEEHPPPPHEHPPPIHHPPPPPPPIIPPPPPPPIEEEHHEEHPPPIHHPPPPPPPPIIPPPPPPPPPHEEEFHPPIHHHPPPPPPPPPIPPPPPPPPPPPPIIPIIHHHIPPPPPPPPPPPPPPPPPPPPPPPPPPHEHHIPPPPPPPPPPPPPPPPPPPPPPPPPPPIHIPPPPPPPPPPPPPPPPPPPPPPPPPIHIPPPPPPPPPPPPIIIPPPPPPPPPPPPPPIHHHIPPPPPPIIIHIIPPPPPPPPPPPPPPPPIHHHHHHHHHHHIIPPPPPPPPPPPPPPPPPPPPPIIIIHIIIIPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>-697741727</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp 2015:SAS 94 32 English</InName>
+                <FName>SAS</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <Folder>SAS 2</Folder>
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp 2015</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>OAAAAAADIAAAAAADIAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAAHAAAAAAAHAAAAAABPPPPPPPPPPPPPPPPPAAAMMMMMMMMMMMMMMMMMMMMMMMMMMMAAAMMHHHHHHHHHHHHHHHHHHHHHHHHHHEAAAMHHHHHHHHHHHHHHHHHHHHHHHHHHHEAAMHHHHHHHHHHHHHHHHHHHHHHHHHHHHEAAMHHHHHHHHHHHHHHHHHHHHHHHHHHHHEAAMHHHHHHHHHHHHHHHHHHHHHHHHHHHHEAAMHHHIAAAAIHHIAAAAIHHIAAAIHHHHEAAMHHHAAIIAAHIAAIIAAHAAIIAAIHHHEAAMHHHAIHHHAIIAHHHIAHAIHHHAIHHHEAAMHHHAAIHHHHHHHHHIAHAAIHHHHHHHEAAMHHHIAAAAIHHIIAAAAHHAAAAIHHHHEAAMHHHPHIIAAIIAIIHHAHHHHIAAAHHHEAAMHHHIHPPPAAAIHPHIAIIHHHHIAHHHEAAMHHIAIPPHAIAAPPHAAHAIHHHIAHHHEAAMHHPAAAIAAHIAAIAAAAIAAIAAAHHHEAAMHHHPIIIIHPHIIIIHIIHIIIIIIIHHEAAMHPHHPPPPPPPPPHHHPHHHHHHHHHHHEAAMHHHPHPPPPPPPHPHHHHHHHHHHHHHHEAAMHHPHPPPPPPPPPHPHHHHHHHHHHHHHEAAMHHHPHPPPPPPPHPHHHHHHHHHHHHHHEAAMPPPPPPPPPPPPPPPPPHHHHHHHHHHHEAAMHHHPHPPPPPPPHPHHHHHHHHHHHHHHEAAMHHPHPPPPPPPPPHPHHHHHHHHHHHHHEAAMHHHPHPPPPPPPHPHHHHHHHHHHHHHHEAAMHPHHPHPHPHPHPHHPHHHHHHHHHHHHEAAMHHHPHPHPHPHPHPHHHHHHHHHHHHHHEAAMHHPHHHHHHHHHHHPHHHHHHHHHHHHHEAAMHPHHPHPHPHPHPHHPHHHHHHHHHHHEAAAMPHHHHHHHHHHHHHHHPHHHHHHHHHEEAAAEEEEEEEEEEEEEEEEEEEEEEEEEEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>-929401419</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp 2015:SAS Enterprise Guid</InName>
+                <FName>SAS Enterprise Guide</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <Folder>SAS 2</Folder>
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp 2015</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>OAAAAAADIAAAAAADIAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAAHAAAAAAAHAAAAAABPPPPPPPPPPPPPPPPPAAAMMMMMMMMMMMMMMMMMMMMMMMMMMMAAAMMHHHHHHHHHHHHHHHHHHHHHHHHHHEAAAMHHHHHHHHHHHHHHHHHHHHHHHHHHHEAAMHHHHHHHHHHHHHHHHHHHHHHHHHHHHEAAMHHHHHHHHHIIIIIIHHHHHHHHHHHHHEAAMHHHHHHIIILLLLLLIIIHHHHHHHHHHEAAMHHHHHILLLLLLLLJJJJJJJJJJJJJHEAAMHHHHILLLLLLLLLLLJJJJJJJJJBBIEAAMHHHILLLLLDDDDDDLLJJJJJBBBBIIEAAMHHILLLLLDHPPPPHHJJJJBBBBBIIHEAAMHHILLLLDHPPPPPHJJJBBBBBBBIIHEAAMHHILLLDHOHPPPHJJBBBBBBBBIIHHEAAMHILLLDHPHOHHHJJBBBHHJBBBIIHHEAAMHILLLDPPPHOOJJBBBHILHBBIIHHHEAAMHILLLDPPPHOOJBBHHPILLHBIHHHHEAAMHILLLDPPPHOOBBHHPPILLLBIHHHHEAAMHILLLDPPPHOOBOHPPPILLLIIHHHHEAAMHILLLDHPHOHHHHOHPHILLLDIHHHHEAAMHHILLLDHOHPPPPHOHILLLDIIHHHHEAAMHHILLLLDHPPPPPPHILLLLDIIHHHHEAAMPPILLLLLDHPPPPHILLLLLDIIHHHHEAAMHHHILLLLLIIIIIILLLLLDIIIHHHHEAAMHHPHILLLLLLLLLLLLLLDIIIHHHHHEAAMHHHPHILLLLLLLLLLLLDIIIIHHHHHEAAMHPHHPHDDDLLLLLLDDDIIIIHHHHHHEAAMHHHPHPIIIDDDDDDIIIIIIHHHHHHHEAAMHHPHHHHHIIIIIIHIIIIHHHHHHHHHEAAMHPHHPHPHPHHIHIIHIHHHHHHHHHHEAAAMPHHHHHHHHHHHHHHHPHHHHHHHHHEEAAAEEEEEEEEEEEEEEEEEEEEEEEEEEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>408611854</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp:AtlasTi 6</InName>
+                <FName>AtlasTi 6</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>false</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>PPOAAPPPPPAAABPPPOAAAAPPPIAAAADPPAAAAABPOAAAAAAPOAAAAAAHMAAAAAAHIAAAAAADIAAAAAADIAAAAAABAAAAAAABAAAAAAABAAAAAAABAAAAAAABAAAAAAAAAAAAAAABAAAAAAABAAAAAAABAAAAAAABIAAAAAABIAAAAAABIAAAAAABMAAAAAABOAAAAAABOAAAAAABPAAAAAADPIAAAAAHPMAAAAHPPPAAABPPPPMAAHPPPPPOPPPPAAAAAAAAAAAEEEEEEEEEAAAAAAAAAAAAAAAAAAAAEEHHIHHIIHEHEEEAAAAAAAAAAAAAAAAEHHHHIPPIEHIHIEEEAAAAAAAAAAAAAEEIPIHHPPHHIIHIHHHEEEAAAAAAAAAAEEIPIHPIHHHPPIIIHPHIHHEAAAAAAAAEEIPPIPPPIHIPIIPIHIHIEIEEAAAAAAAEIPIIPPPPIPHHIPPEPPHPHHHEEAAAAAEIPPIPPPPIPPPIHHIHPIIPHIIHEAAAAEHPPPPPPPIIPPPIPIHHIHPPHIIHHEAAAEHIPIPPPPIPPPIPPPHIHEHIHIPHIEAAAHIHHIPPPIPPPPIPPIIPPIIHEEHEHHEAEHPPIIIPPIPPPIPPPHPPIPPPEPPIHHEAEIPPIPPIIIPPPIPPIIPPIPPPEPPIIIEAEPPIPPPPIPIIIPPPHPIIHPPIHPPIIIHAHPPIPPPIIPPPIIIIIPPIIIIHHPPIIIHAEIIHIIPIPPPPPPIHIPPHPPPHIIIHIIHEHIPHPPIHPPPIPPPHIHHIPPIEPPPHIIHAEPPIPPIHPPIIPPIIPPHHHIHHPPPHIIHAEIPIPPHIPPIPPIHPPIIPIHEHIIIHIIEAEIPIPPHIPPIPPIIIIHPPPIHHBJJJBHEAAEHEHHEIPPIPPHPPIHIPPEHJHHHJJJEAAEIHPIEHHEHPIHPPHPPIHHJHIIHHJJJAAEHHPPEPPHHHEIPIIPPIEHJHIIHHJJJAAAEHIPEPPHPIHHHHPPPHHIJHHHHHJJJAAAAHHIEPPIPHIPHHHIHHPIJJHHHJJJJAAAAEEIEHHIIHPIHPHEEIPPJJJJJJJJJAAAAAEHHHHIHHPHPPIEGHPIHJJJJJJJAAAAAAAEEEHIEPHHPHEIPHHHIHBJJJJAAAAAAAAAEEEHHHIIEEIIIHHHIEEAAAAAAAAAAAAAAAEEHHHEHIIHHIHEEAAAAAAAAAAAAAAAAAAAEEEHHEEHEEEAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                        <IconType size="16" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="48" bpp="32" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>1441201542</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenDesktop:Elon Lab $S56-47</InName>
+                <FName>Elon Lab</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="true">
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenDesktop</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>PPPADPPPPPIAAHPPPOAAABPPPMAAAAPPPIAAAAHPPAAAAADPOAAAAABPMAAAAAAPMAAAAAAPIAAAAAAHIAAAAAAHIAAAAAAHAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAADIAAAAAAHIAAAAAAHIAAAAAAHMAAAAAAPMAAAAAAPOAAAAABPPAAAAADPPIAAAAHPPMAAAAPPPOAAABPPPPIAAHPPPPPADPPPPPPPPPPPPPPPPPPPAAAAAAAAAAAAHHHHHHAAAAAAAAAAAAAAAAAAAAAAAHHHEEEEEEHHHAAAAAAAAAAAAAAAAAAHHEEEMMMMMMEEEHHAAAAAAAAAAAAAAAHEEMMMMMMMMMMMMEEHAAAAAAAAAAAAAHEMMMMMMMMMMMMMMMMEHAAAAAAAAAAAHEMMMMMMMMMMMMMMMMMMEHAAAAAAAAAHEIPPPPPPPPPPPPPPPPPPIEHAAAAAAAHEMPMMMMMMMMMMMMMMMMMMPMEHAAAAAAHEMPMMPPPPPPMMMMMMMMMMPMEHAAAAAHEMMPMMPMMMMPMMMMMMMMMMPMMEHAAAAHEMMPMMPMPPPPPPPPMMMMMMPMMEHAAAAHEMMPMMPMPMMMMMMPMMMMMMPMMEHAAAHEMMMPMMPMPPPMPPPPPPPPMMPMMMEHAAHEMMMPMMMMPPPMPMMMMMMPMMPMMMEHAAHEMMMPMMMMPPPMPPPPPPPPMMPMMMEHAAHEMMMPMMMMPPPMPPPPPPPPMMPMMMEHAAHEMMMPMMMMMMMMPPPPPPPPMMPMMMEHAAHEMMMPMMMMMMMMPPPPPPPPMMPMMMEHAAAHEMMPMMMMMMMMPPPPPPPPMMPMMEHAAAAHEMMPMMMMMMMMMMMMMMMMMMPMMEHAAAAHEMMIPPPPPPPPPPPPPPPPPPIMMEHAAAAAHEMMMMMMMMMPPPPMMMMMMMMMEHAAAAAAHEMMMMMMMMMPPPPMMMMMMMMMEHAAAAAAAHEMMMPPPPPPPPPPPPPPMMMEHAAAAAAAAAHEMMMMMMMMMMMMMMMMMMEHAAAAAAAAAAAHEMMMMMMMMMMMMMMMMEHAAAAAAAAAAAAAHEEMMMMMMMMMMMMEEHAAAAAAAAAAAAAAAHHEEEMMMMMMEEEHHAAAAAAAAAAAAAAAAAAHHHEEEEEEHHHAAAAAAAAAAAAAAAAAAAAAAAHHHHHHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                        <IconType size="16" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="48" bpp="32" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>10</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp 2015:Epi Info™ 7</InName>
+                <FName>Epi Info™ 7</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp 2015</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>OAAAAAAHMAAAAAADIAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABMAAAAAADOAAAAAAHAAAIIIIIIIIIIIIIIIIIIIIIIIIIIAAAAAIIIIIIIIIIIIIIIIIIIIIIHHIIIIAAAIIIIIIIIIIIIIIIIIIIIIIGAAIIIIIAIIIIIIIIIIIIIIIIIIIIIIIHAEIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHIIIIIIIIIIIIHHGEHHIHHGHHGEHHIHHGHHIIIIIIIIHHGEHHAHIHEAAFGAAHIHEAAIIIIHIIIIIHAEHIAAHIAAAHIHAEHIHAAHHIIIIIHIHEAGHHAAHIEAGIIHAAHIGAAHIHIHIIHIIAAAGHHGHIAAEHHHAAHHGAAHIHIHIIHIHEAHHIHIHIEACHIHAAHHGAAHIHIHIIIHIAAAHIHHHIAAEHIHAAHHHAAHIHIHIIHHIGAAAHGEHHEAAIHGAEHIEAAHIHHIIIHHIHHAAAEHIHGAAHGAEHHHGAAGHHHHIIHHIHHHHHHIHHEAAHHHHIHHHHHHIHIHIIHHIIIHHHHHHIAAEHHHIIIIHIHHHHHHHHHIPPIHHHHHIHEAAIHIPIPPIHHHHHHHIIHHIIIHHHHHHHAAAGHPPIIIIHHHHHHHIIHHHHHHHHHHHHHHHHIPPIHHHHHIHHHHIHHIIIIHIIIIIPIIHHIPPIIHHIIIIIHHHHHIPPIHIPPPIPPIHHIPPIIHIPIHIPIHHHHHPPIHIPPIHIPIHHHPPIHHPPIHIPPHHHHHPPIHHPPIHIPPHHHPPIHIPPHHIPPHHHHHPPIHHPPIHIPIHHHPPIHHPPHHHPPIHHHHPPIHHPPHHIPPHHHPPIHHPPHHIPPHHHHHPPIHHPPIHIPIHHHPPIHHIPIGIPIHHHHIPPIHIPPIHIPPHHIPPIHGIIIIIIIGHHGHHIHHHHIHHHIHHGHHIHHGHHIIIHHHHIHHHGHGHGHGHGHGHGHHGHGHHHGHGHGHIAHGHHHGHHHHHGHHHHGHHHHGHHGHHHGHAAAHHGHGHGHGHGHGHGHHGHGHHGHHGHHAAAAAIHHHHHHHHHHHHHHHHHHHHHHHHIAAA</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                        <IconType size="16" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="48" bpp="32" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>790102123</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp:IBM SPSS Statistics 22</InName>
+                <FName>IBM SPSS Statistics 22</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <Description>IBM SPSS Statistics 22</Description>
+                        <WinWidth>1024</WinWidth>
+                        <WinHeight>768</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>pixels</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>false</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>PPAAAAPPPPAAAAPPPAAAAAAPPAAAAAAPMAAAAAADMAAAAAADMAAAAAADMAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAADMAAAAAADMAAAAAADMAAAAAADPAAAAAAPPAAAAAAPPPAAAAPPPPAAAAPPAAAAAAAAGGHHHHHHHHHHGGGGAAAAAAAAAAAAAAAAGGHHHHHHHHHHGGGGAAAAAAAAAAAAGGHHIIIIIIIIHHHHHHHHGGGGAAAAAAAAGGHHIIIIIIIIHHHHHHHHGGGGAAAAAAGGIIIIIIIIIIIIHHHHHHHHHHGGGGAAAAGGIIIIIIIIIIIIHHHHHHHHHHGGGGAAAAHHIIHHHHHHHHHHHHHHHHHHHHHHGGAAAAHHIIHHHHHHHHHHHHHHHHHHHHHHGGAAGGIIIIIIPPPPPPPPPPPPPPIIHHHHHHGGGGIIIIIIPPPPPPPPPPPPPPIIHHHHHHGGHHIIIIIIIIPPPPIIHHHHIIIIHHHHHHGGHHIIIIIIIIPPPPIIHHHHIIIIHHHHHHGGHHIIIIIIIIIIPPPPHHHHHHHHHHHHHHGGHHIIIIIIIIIIPPPPHHHHHHHHHHHHHHGGHHHHIIIIIIHHIIPPIIHHHHHHHHHHHHGGHHHHIIIIIIHHIIPPIIHHHHHHHHHHHHGGHHHHHHHHHHHHHHIIIIHHHHHHHHHHHHGGHHHHHHHHHHHHHHIIIIHHHHHHHHHHHHGGHHHHHHHHHHHHIIIIHHHHHHHHHHHHHHGGHHHHHHHHHHHHIIIIHHHHHHHHHHHHHHGGGGHHHHHHHHHHPPHHHHHHHHHHHHHHHHGGGGHHHHHHHHHHPPHHHHHHHHHHHHHHHHGGGGHHHHHHIIPPIIIIHHIIIIIIHHHHHHGGGGHHHHHHIIPPIIIIHHIIIIIIHHHHHHGGAAGGHHHHPPPPPPPPPPPPPPIIHHHHGGAAAAGGHHHHPPPPPPPPPPPPPPIIHHHHGGAAAAGGGGHHHHHHHHHHHHHHHHHHHHGGGGAAAAGGGGHHHHHHHHHHHHHHHHHHHHGGGGAAAAAAGGGGHHHHHHHHHHHHHHHHGGGGAAAAAAAAGGGGHHHHHHHHHHHHHHHHGGGGAAAAAAAAAAAAGGGGGGGGGGGGGGGGAAAAAAAAAAAAAAAAGGGGGGGGGGGGGGGGAAAAAAAA</Icon>
+                    <IconInfo>
+                        <IconType size="16" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="48" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>1408554938</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp 2015:IBM SPSS Statistics</InName>
+                <FName>IBM SPSS Statistics 23</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp 2015</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>PPMAADPPPPAAAAPPPOAAAAHPPIAAAABPPAAAAAAPOAAAAAAHOAAAAAAHMAAAAAADIAAAAAABIAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABIAAAAAABMAAAAAADOAAAAAAHOAAAAAAHPAAAAAAPPIAAAABPPOAAAAHPPPAAAAPPPPMAADPPAAAAAAAAAAGGGHHHHHHGGGAAAAAAAAAAAAAAAAAAGGHIIIIIIIIIHHGGAAAAAAAAAAAAAAAGIIIIIIIIIIIIIHHHGAAAAAAAAAAAAGHIIIPIIIIIIIIIIIHHHGGAAAAAAAAAGHIPIIIIIIIIIIIIIIHHHHGGAAAAAAAGHIIIPIPIPIIIIIIIIIHHHHHGGAAAAAAHIIPIIIIIIIIIIIIIIIHHHHHHGAAAAAGIIIHHIIIIIIIIHIIIIIHHHHHHHGAAAGHIIIIPPPPPPPPPPPPIIIHHHHHHHGGAAGIIIIIPPPPIIIIIIPIIIIHHHHHHHHGAGHIIIIIIPPPPIIIIIIIIHHHHHHHHHHGGGIIIIIIIIPPPPIIIIIIHHIPIIIHHHHHGGIIIIIIIIIPPPIIIIIIHPPIPPPHHHHHGGIIIIIIIIIIPPPIIIIIIPIHIPIHHHHHGHIIIIIIIIIIIPPIIIIIIPIHIPIHHHHHGHIIIIIIIIIHIPPIIIIIHPPIPPIHHHHHGHIIIIIIIIHIPPIIIIHHHIPPPIPIHHHHGGHHIIIIIHHPPIIIHHHHHHHHHHHHHHHHGGHHHHHIIHIPIIHHHHHHHHHHHHHHHHHHGGHHHHHHHIPIHHHHHHHIHHHHHHHHHHHHGGHHHHHHIPPIIIIIIIPPHHHHHHHHHHHHGGGHHHHIPPPPPPPPPPPPHHHIIHHHHHHGGAGHHHHIPPPPPPPPPPPIHHHPPHHHHHHGAAGGHHHHHHHHHHHHHHHHIIIIIIIHHHGGAAAGHHHHHHHHHHHHHHHHIIPPIIPIHHGAAAAAGHHHHHHHHHHHHHHHHHHIIHHHHGAAAAAAGGHHHHHHHHHHHHHHHHHPPHHHGGAAAAAAAGGHHHHHHHHHHHHHHHHHHHHGGAAAAAAAAAGGHHHHHHHHHHHHHHHHHHGGAAAAAAAAAAAAGGHHHHHHHHHHHHHHGGAAAAAAAAAAAAAAAGGGHHHHHHHHHHGGGAAAAAAAAAAAAAAAAAAGGGGGGGGGGGGAAAAAAAAAA</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                        <IconType size="16" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="48" bpp="32" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>-2044708647</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp 2015:PAEd</InName>
+                <FName>PA Manager</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp 2015</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>PPPPPPPPPPPMBPPPPPIABPPPMAAABPPPIAAABPPPIAAAAAAPIAAAAAADIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAABIAAAAAADIAAAAAAPIAAABPPPMAAABPPPPPIABPPPPPPMBPPPPPPPPPPPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIHBBBAAAAAAAAAAAAAAAAAAAAAAIHBBBBBBBBAAAAAAAAAAAAAAAIHBBBBBBBBBBBBBBBAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBIAAAAABBBBBBBBBBBBBBBBBBPPPPPPPIBBIAAABBBBBBBBBBBBBBBBBBPPPPPPPPPIBIAABBBBBBBBBBBBBBBBBBPPPPPPPPPPIBAABBBBBBBBBBBBBBBBBBPPPPPPPPPPBBAABBBBBBBBBBBBBBBBBBPPPPPPPIBBIBAABBBBBBBBPPBBBBBBBBBBBBBBBBIPPBAABBBBBBBIPPIBBBBBBBPPPPPPPPPPPBAABBBBBBBPPPPBBBBBBBPPPPPPPPPPIBAABBBBBBBPIIPBBBBBBBPPPPPPPPPIBBAABBBBBBIPBBPIBBBBBBPPPPPPPIBBIBAABBBBBBPPBBPPBBBBBBBBBBBBBBIPPBAABBBBBBPPPPPPBBBBBBPPPPPPPPPPPBAABBBBBIPPPPPPIBBBBBPPPPPPPPPPIBAABBBBBPPBBBBPPBBBBBPPPPPPPPPIBBAABBBBBPPBBBBPPBBBBBPPPPPPPIBBIBAABBBBBBBBBBBBBBBBBBBBBBBBBBIPPBAABBBBBBBBBBBBBBBBBBPPPPPPPPPPPBAABBBBBBBBBBBBBBBBBBPPPPPPPPPPIBAABBBBBBBBBBBBBBBBBBPPPPPPPPPIBIAABBBBBBBBBBBBBBBBBBPPPPPPPIBBIAAABBBBBBBBBBBBBBBBBBBBBBBBBBIAAAAABBBBBBBBBBBBBBBBBBAAAAAAAAAAAAAAAIHBBBBBBBBBBBBBBBAAAAAAAAAAAAAAAAAAAAAAIHBBBBBBBBAAAAAAAAAAAAAAAAAAAAAAAAAAAIHBBBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                        <IconType size="16" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="48" bpp="32" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>1354744169</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp:PA Manager</InName>
+                <FName>PA Manager</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <Description>PA Manager</Description>
+                        <WinWidth>1024</WinWidth>
+                        <WinHeight>768</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>pixels</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>false</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>PPPPPPPPOAAAPPPPIAAAPPMAIAAAPPIAAAAAPPAAAAAAPPAAAAAAPPAAAAAAABAAAAAAABABAAAAABADAAAAABPPAAAAABPPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPPIAAAAAPPIAAAAAPPIAAAAAPPIAAAAAPPIAAAAAPPIAAAAAPPIAAAAAPPIAAAAAPPIAAAAAPPIAAAAAPPIAAAAAPPIAAAABPPIAAAADPPPPPPPPPPPPPPPPPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEJEJEJEJEJEJEAAAAAAAAAAAAAAAAAJEPPPPPPPPPPPPJAAAAAAAAAAAAAAAAAEPPPPPPPPPPPPPEAAAAAAAAAANNNNAAEPPPPPEFEFPPPPPJAAAAAAAAAAAAAAFAJPPPPPFEFEPPPPPEAAAAAAAAANNNNAFAEPPPPPEFEFPPPPPJAAAAAAAAANNNNAFAJPPPPEFPPEFPPPPEAHAAAAAAANNNNAFAEPPPPFEPPFEPPPPJHPPPPHAAANNNNAAAJPPPPEFPPEFPPPPEHHHHHPAAAAAAAAAAEPEPEFEFEFEFPJPJPPPPHPAAAAAAAAAAJPJPFEFEFEFEPEPEPPPPHPAAAAAAAAAAEPEPEFPPPPEFPJPJPPPPHPAAAAAAAAAAJPPEFEPPPPFEFPPEPPPPHHPPPPHAAAAAEPEJEJEJEJEJEJPJHHHHHHHHHHPAAAAAJPPPPPPPPPPPPPPEPPPPHPPPPHPAAAAAEJEJEJEJEJEJEJEJPPPPHPPPPHPAAAAAAAAAAAPPPPHPPPPHPPPPHPPPPHPHAAAAAAAAAAPPPPHPPPPHPPPPHPPPPHHAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHPAAAAAAAAAAAPPPPHPPPPHPPPPHPPPPHPAAAAAAAAAAAPPPPHPPPPHPPPPHPPPPHPAAAAAAAAAAAPPPPHPPPPHPPPPHPPPPHPHAAAAAAAAAAPPPPHPPPPHPPPPHPPPPHHAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHPAAAAAAAAAAAPPPPHPPPPHPPPPHPPPPHPAAAAAAAAAAAPPPPHPPPPHPPPPHPPPPHPAAAAAAAAAAAPPPPHPPPPHPPPPHPPPPHPAAAAAAAAAAAPPPPHPPPPHPPPPHPPPPHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                        <IconType size="16" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="48" bpp="32" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>1384889714</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp 2015:StataMP 12 64-bit</InName>
+                <FName>StataMP 12 64-bit</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp 2015</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>OAAAAAAHMAAAAAADIAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABMAAAAAADOAAAAAAHAAAIPPPPPPPPPPPPPPPPPPPPPPPIPAAAAAIPPIIIPIPIIPIPIPIPIPIPIPPPPIAAAPPIIIIIIHIIIIIIIIIIIIIIIIOIIPIAIPIIIIIIIIIIIHIOIIIOIIOIIHIIIIPIIPIIIOIHIIIHIIIIIIHIIIIIIIIHIIPIPIIHIHIIHOHIIIPIPIPIIPIPIPIIOIIPPIIOHIHHIHIOIIPPPPPIIPPPPPIHIHPPPPHHIGIOHIHHIPPPPPPIIPPPPPIIHOIPPIHIMIHHHHOHIPPPPPPIIPPPPPIGHHPIIPGHHHGIMHHHHPPPPPPHIPPPPPIHHHIPPIHHGHHGHHMHIPPPPPPHPPPPPPIHMHPIPIHGHEHHGHGHHIIIPIPHIIIPIIIGHGIPIPGHGHGEHGHGGHGHGEHGGGHGGHGHGHIPPIGFGIPPPPPIHPPPPPPHIPPPPPHGFGPIIIGGGHPPPPPIHPPPPPPHIPPPPPIGGEIIIIEGAIPPPPPIGPPPPPPHIPPPPPHGECIPIIGEGHPPPPIIHIPPPPPEIPPPPIHGEEIIIIGEEHPPIPPIGPPPPIPHIPPIPPHGEGIIIIECGHPPPPPIFPPIPPPGIIPPIPHEAGIIIIGEEGGGGHGGGHGHGGHEHGHBBJDFGAIIIIGEGHIIIIIIEIIIIIIGEGJBBFBJBHIIIIEGAHPPPIPIGPPIPPPGBJBFJDJBBFDIIIGEGHPIPPPIGPPPPIPGJHHJBBIIJBBHIIGEGHPPPPIIHPIPPPPBBIPJFPPIPJBHIIECEHPPIPPIGPPPIPIHBBPHJPDBPHBBIIGEGHPPPPPIEPPPPPIBJBPFBJFJPFJBIIEGAHIIIIIIGIIIIIIBFBPHJBBPIBBJIPGEGAGAGAGAGAGAGAGBBJPHBJIIJJBBIPHGEGEGEGEGEGEGEGEAFBPJJIPIIHJHAHPHGEGEGGEGGEGGEGGEDBIBHIIIIJHAAAIIPIIIIIIIIIIIIIIIIFBJFJBJBBAAAAAIIIIIIIIIIIIIIIIIIIHBBBBBHAAA</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                        <IconType size="16" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="48" bpp="32" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>-404194523</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp:Tableau Public 8</InName>
+                <FName>Tableau Public 8</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <Description>Tableau Public 8</Description>
+                        <WinWidth>1024</WinWidth>
+                        <WinHeight>768</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>pixels</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>false</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHPPPPPPPPPPPPPPPPPPPPPPPPPPPPHHHHPPPPPPPPPPPPPPPPPPPPPPPPPPPPHHHHPPPPPPPPPPPPPPPPPPPPPPBBPPPPHHHHPPPPPPPPPPPPPPPPPPPPPPBBPPPPHHHHPPPPPPPPPPPPPPDDPPPPBBBBBBPPHHHHPPPPPPPPPPPPPPDDPPPPBBBBBBPPHHHHPPPPGGPPPPPPDDDDDDPPPPBBPPPPHHHHPPPPGGPPPPPPDDDDDDPPPPBBPPPPHHHHPPGGGGGGPPPPPPDDPPPPPPPPPPPPHHHHPPGGGGGGPPPPPPDDPPPPPPPPPPPPHHHHPPPPGGPPPPPPPPPPPPPPPPPPPPPPHHHHPPPPGGPPPPPPPPPPPPPPPPPPPPPPHHHHPPPPPPPPGGPPPPPPPPGGPPPPPPPPHHHHPPPPPPPPGGPPPPPPPPGGPPPPPPPPHHHHPPPPPPPPGGPPPPPPGGGGGGPPPPPPHHHHPPPPPPPPGGPPPPPPGGGGGGPPPPPPHHHHPPPPPPPPGGPPPPPPPPGGPPPPPPPPHHHHPPPPPPPPGGPPPPPPPPGGPPPPPPPPHHHHPPGGGGGGGGGGGGGGPPPPPPPPPPPPHHHHPPGGGGGGGGGGGGGGPPPPPPPPPPPPHHHHPPPPPPPPGGPPPPPPPPPPPPPPPPPPHHHHPPPPPPPPGGPPPPPPPPPPPPPPPPPPHHHHPPPPPPPPGGPPPPPPPPPPPPPPPPPPHHHHPPPPPPPPGGPPPPPPPPPPPPPPPPPPHHHHPPPPPPPPGGPPPPPPPPPPPPPPPPPPHHHHPPPPPPPPGGPPPPPPPPPPPPPPPPPPHHHHPPPPPPPPPPPPPPPPPPPPPPPPPPPPHHHHPPPPPPPPPPPPPPPPPPPPPPPPPPPPHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</Icon>
+                    <IconInfo>
+                        <IconType size="16" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="48" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>1396624991</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp 2015:TMGPlan</InName>
+                <FName>The Marketing Game</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp 2015</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJALLLLLLLLAAAAAAAAAAAAAAAAAAAAAAJAAAALAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAALAAAAAAAAAAAAAAAAAAAAAAAAAAJEEEELEEEEEEEEEEEEEEEEEEEEEEEEEEJEEEELEEEEEEEEEEEEEEEEEEEEEEEEEEJEEEELEEEEEEEEEEEEEEEEEEEEEEEEEEJEEEELEEEEEEEEEEEEEEEEEEEEEEEEEEJEEEELEEEEELLEEEEELLEEEEEEEEEEEEJEEEELEEEEELLEEEEELLEEEEEEEEEEEEJEEEELEEEEELLLEEELELEEEEEEEEEEEEJEEEEEEEEEELELEEELELEEEEEEEEEEEEJEEEEEEEEEELELEEELELEEEEEEEEEEEEJEEEEEEEEEELELLELEELEEEEEEEEEEEEJEEEEEEEEEELEELELEELEEEEEEEEEEEEJEEEEEEEEEELEELELEELEEEEEEEEEEEEJEEEEEEEEEELEELLEEELEEEEEEEEEEEEJEEEEEEEEEELEEELEEELEEELLLLLLEEEJEEEEEEEEEEEEEEEEEEEEELLEEEEELEEJEEEEEEEEEEEEEEEEEEEEELEEEEEELLEJEEEEEEEEEEEEEEEEEEEEELEEEEEEEEEJEEEEEEEEEEEEEEEEEEEEELEEEEEEEEEJEEEEEEEEEEEEEEEEEEEEELEEEELLLLEJMMMMMMMMMMMMMMMMMMMMMLMMMMMMLLMJMMMMMMMMMMMMMMMMMMMMMLLMMMMMLLMJMMMMMMMMMMMMMMMMMMMMMMLLMMMLLLMJMMMMMMMMMMMMMMMMMMMMMMMLLLLLMMMJMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMJMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMJ</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>-1481351103</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp:The Marketing Game</InName>
+                <FName>The Marketing Game</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <Description>The Marketing Game</Description>
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>false</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJALLLLLLLLAAAAAAAAAAAAAAAAAAAAAAJAAAALAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAALAAAAAAAAAAAAAAAAAAAAAAAAAAJEEEELEEEEEEEEEEEEEEEEEEEEEEEEEEJEEEELEEEEEEEEEEEEEEEEEEEEEEEEEEJEEEELEEEEEEEEEEEEEEEEEEEEEEEEEEJEEEELEEEEEEEEEEEEEEEEEEEEEEEEEEJEEEELEEEEELLEEEEELLEEEEEEEEEEEEJEEEELEEEEELLEEEEELLEEEEEEEEEEEEJEEEELEEEEELLLEEELELEEEEEEEEEEEEJEEEEEEEEEELELEEELELEEEEEEEEEEEEJEEEEEEEEEELELEEELELEEEEEEEEEEEEJEEEEEEEEEELELLELEELEEEEEEEEEEEEJEEEEEEEEEELEELELEELEEEEEEEEEEEEJEEEEEEEEEELEELELEELEEEEEEEEEEEEJEEEEEEEEEELEELLEEELEEEEEEEEEEEEJEEEEEEEEEELEEELEEELEEELLLLLLEEEJEEEEEEEEEEEEEEEEEEEEELLEEEEELEEJEEEEEEEEEEEEEEEEEEEEELEEEEEELLEJEEEEEEEEEEEEEEEEEEEEELEEEEEEEEEJEEEEEEEEEEEEEEEEEEEEELEEEEEEEEEJEEEEEEEEEEEEEEEEEEEEELEEEELLLLEJMMMMMMMMMMMMMMMMMMMMMLMMMMMMLLMJMMMMMMMMMMMMMMMMMMMMMLLMMMMMLLMJMMMMMMMMMMMMMMMMMMMMMMLLMMMLLLMJMMMMMMMMMMMMMMMMMMMMMMMLLLLLMMMJMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMJMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMJ</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>1403227090</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp 2015:TinkerPlots 2</InName>
+                <FName>TinkerPlots 2</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp 2015</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>PPPPPPPPPPPOBPPPPPOAADPPPPIAAAPPPPAAAADPPOAAAABPPMAAAAAPPIAAAAAPPAAAAAAHMAAAAAAHIAAAAAADAAAAAAABAAAAAAAAIAAAAAAAIAAAAAAAMAAAAAABMAAAAAABOAAAAAABOAAAAAADOAAAAAADOAAAAAADPAAAAAAHPAAAAAAHPIAAAAAPPMAAAAAPPOAAAABPPPAAAADPPPIAAAPPPPMAABPPPPPAAHPPPPPPPPPPPPPPPPPPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBAAAAAAAAAAAAAAAAAAAAAAAAJDDDDDDDJJBAAAAAAAAAAAAAAAAAAAJDLDLDLHGGGHDJBAAAAAAAAAAAAAAAADLLDLLLHGGGGGHDJJBAAAAAAAAAAAAADLDLLLLHGGGGGGGDDJJBAAAAAAAAAAADLLLLLLLHGGGGGGGHLDJJBAAAAAAAAADLLLLLLLLIGGGGGGGHDDDJBAAAAAAAADLLLLLLLLLLGGGGGGGILLDDJBAAAAAGGHHLLLLLLLLLPGGGGGIPHLDDDBAAAAGGGGGLLLLLLLLIPPGGGPPPPLLDDHHAAGGGGGGHLLLLLLLIPPPPPPPPPHLHGGGGAGGGGGGHDLLLLLLIPPPPPPPPPHLGGGGGGAGGGGGHLLLHIIHLPPPPPPPPPLLGGGGGGAGGGGGDLLIGGGGHIPPPPPPPILLGGGGGGAAHHDDLLLGGGGGGLIPPPPPIILLHGGGGAAAJLLLLLHGGGGGGDIIIPIILLLLDHGBBAAAADLLLLLGGGGGGDLLLLLLLLLLLDJBBAAAALLLLLLIGGGGDDLLLLLLLLLLDDJBAAAAADLLLLLLHHHDLLLLLLLLLLLDDDJBAAAAAJDLLLLLLLLLLLLLLLLLLLLLDDJBAAAAAADLLLLLLLLLLLLLLLLLLLLDDJBAAAAAAAJLLLLLLLLLLLLLLLLLLLDDDJBAAAAAAAAJDLLLLLLLLLLLLLLLDDDDJBAAAAAAAAAADDLLLLLLLLLLLLLLLDDJBBAAAAAAAAAAADDLLLLLLLLLLLDDDDJBBAAAAAAAAAAAAAJDDLDLLLDLDDDDJJBBAAAAAAAAAAAAAAABJDDDDDDDDDDJJBAAAAAAAAAAAAAAAAAABBJJDDJDJJBBBAAAAAAAAAAAAAAAAAAAAABBBBBBBBBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                        <IconType size="16" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="48" bpp="32" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>39411418</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp 2015:Wolfram Mathematica</InName>
+                <FName>Wolfram Mathematica 10</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <WinWidth>0</WinWidth>
+                        <WinHeight>0</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>fullscreen</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp 2015</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>true</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>PPPPPPPPPPPPHPPPPPPPHPPPPPPOHPPPPOPODPPPPODMDOHPPPAIBIPPPPAAAAPPPPAAAAPPPPAAABPPOAAAAAPPPAAAAAHPPIAAAAADPIAAAAAPPMAAAABPPMAAAADPPIAAAAHPPAAAAAHPOAAAAADPIAAAAABPPOAAAAAPPPAAAAAHPPAAABPPPPAAABPPPPAAABPPPOHIDBPPPPPIHNPPPPPIPOPPPPPMPPPPPPPNPPPPPPPNPPPPPPPPPPPPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDAAAAAAAAAAAAAAAAAAAAAAHAAAAAAADDHAAAAAAAAAAAAAAAAAAAAAHDIAAAAHDDDAAAAADHAAAAAAAAAAAAAAADDDIAHDDDDHAAHDDAAAAAAAAAAAAAAAADDDDDDDDBBBDDDDLAAAAAAAAAAAAAAAAHDDDDDDDBBBBBDDIAAAAAAAAAAAAAAAALDDDDDDBBBBDDDDAAAAAAAAAAAAHHHIHDLDDDDDBBDDDDDDIAAAAAAAAAAAADDDDDLLLLDDDLDLDDDDDHAAAAAAAAAAAADDDDLLILLLLLLLDDDDDDDDDLIAAAAAAAHDDDDILILLLLLLDDBDDDDDLAAAAAAAAAADDDDILIIILLLLDBBDDDDIAAAAAAAAAAADDDLIIIIILLLLDBDDDDHAAAAAAAAAAAHDDLIIIIIIILLLDDBDDDAAAAAAAAAAAIDDLIIIIILIILLLLDDDDDAAAAAAAAAADDDLIIIIILILIIILLLDDDDLAAAAAAAIDDDLIIIIIIIIIIILLLLDDHDDIAAAAAAAAAAAADDLILIIIILLLLLLLLDDDIAAAAAAAAAAAADBDLIIILILDDDDDDIHHDIAAAAAAAAAAALDDDLILIDDBDDDDAAAAAAAAAAAAAAAAADDDDLIILDDDDDDHAAAAAAAAAAAAAAAAADDDHDLLDDDDDDDDAAAAAAAAAAAAAAAAHHAAAALDDDIAALDDAAAAAAAAAAAAAAAAAAAAAADDDIAAAAALAAAAAAAAAAAAAAAAAAAAAADDDAAAAAAAIAAAAAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                        <IconType size="16" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="32" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>-480732997</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+            <AppData type="app">
+                <InName>Elon XenApp:Wolfram Mathematica 9</InName>
+                <FName>Wolfram Mathematica 9</FName>
+                <Details>
+                    <Settings appisdisabled="false" appisdesktop="false">
+                        <Description>Wolfram Mathematica 9</Description>
+                        <WinWidth>1024</WinWidth>
+                        <WinHeight>768</WinHeight>
+                        <WinColor>8</WinColor>
+                        <WinType>pixels</WinType>
+                        <WinScale>0</WinScale>
+                        <VideoType minimum="false">none</VideoType>
+                        <Encryption minimum="false">basic</Encryption>
+                        <AppOnDesktop value="false">
+                        </AppOnDesktop>
+                        <AppInStartmenu value="false"></AppInStartmenu>
+                        <PublisherName>Elon XenApp</PublisherName>
+                        <SSLEnabled>false</SSLEnabled>
+                        <RemoteAccessEnabled>false</RemoteAccessEnabled>
+                        <HasClientHostedApps>false</HasClientHostedApps>
+                    </Settings>
+                    <Icon>PPPPPPPPPPPPLPPPPPPPLPPPPPPPDPPPPPHPBPPPPPBOBPDPPPIEAMHPPPIAAAHPPPIAAAHPPPIAAAPPPAAAAAHPPIAAAADPPMAAAAABPMAAAAAHPOAAAAAPPOAAAABPPMAAAADPPIAAAADPPAAAAABPMAAAAAAPPPAAAAAHPPIAAAADPPIAAAPPPPIAAAPPPPIAAAPPPPDMBIPPPPPMDOPPPPPMHPHPPPPOHPPPPPPOPPPPPPPOPPPPPPPPPPPPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABJAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAJBBAAAAAAAAAAAAAAAAAAAAABJHAAAABBBBAAAAABJAAAAAAAAAAAAAAAJJJHAJBBBBBAABBJAAAAAAAAAAAAAAAAJJJJJJBBBBBBBBJJAAAAAAAAAAAAAAAAJJJJJJBBBBBBBJJJAAAAAAAAAAAAAAAAJJBBBBBBBBBBBJJAAAAAAAAAAAABBBJJJJJBBBBBBBBJJJJJAAAAAAAAAAAABJJJJJJJJJBBJJJJBBJJJAAAAAAAAAAAABJBBJJJJJJJJJJJBBBBJJJJJHAAAAAAABBBBJJJJJJJJJJBBBBBBJJHAAAAAAAAAABBBJJJJJJJJJJBBBBBJJHAAAAAAAAAAABBBJJHHHHJJJJBBBBBJHAAAAAAAAAAAJBBJHHHHHIHJJJJBBBJJAAAAAAAAAAAJBBJHHHHJJJHJJJJBBBBJAAAAAAAAAAJBJJHHHHHJJJHJJJJJBBBJJAAAAAAAJJJJJJHHHHJJJJHJJJJJBBBJJHAAAAAAAAAAAAJBHJJJJHHJJJJJJJJJJJIAAAAAAAAAAAABBBJJJHJJJBBBJJJJJJJHAAAAAAAAAAAJJBBJHHJBBBBBBBAAAAAAAAAAAAAAAAAJJBBJHJJBBBBJJBAAAAAAAAAAAAAAAAAJBBBJJJBBBBJJJJAAAAAAAAAAAAAAAABBAAAAJJBJJAAJJJAAAAAAAAAAAAAAAAAAAAAAJBJJAAAAAJAAAAAAAAAAAAAAAAAAAAAABBJAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAJHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Icon>
+                    <IconInfo>
+                        <IconType size="32" bpp="4" format="raw">
+                        </IconType>
+                        <IconType size="16" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="32" bpp="32" format="raw">
+                        </IconType>
+                        <IconType size="48" bpp="32" format="raw">
+                        </IconType>
+                    </IconInfo>
+                </Details>
+                <SeqNo>1384443458</SeqNo>
+                <ServerType>win32</ServerType>
+                <ClientType>ica30</ClientType>
+            </AppData>
+        </AppDataSet>
+    </ResponseAppData>
+</NFuseProtocol>

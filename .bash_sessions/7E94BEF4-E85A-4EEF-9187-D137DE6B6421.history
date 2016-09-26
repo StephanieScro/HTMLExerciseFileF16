@@ -1,0 +1,8 @@
+chrown
+chown
+sudo chown -R root:wheel/Applications/Inspiration\ 9.app
+sudo chown -R root:wheel /Applications/Inspiration\ 9.app
+sudo chown -R root:wheel /Applications/Applications 
+sudo chown -R root:wheel /Applications/Crossword\ Forge.app /Applications/Inspiration\ 9.app /Applications/InspireData /Applications/Jing.app /Applications/Kidspiration\ 3 /Applications/Mathematica.app /Applications/Scratch\ 1.4 
+sudo chmod -r 777 /Applications/NetBeans 
+sudo chmod -R 777 /Applications/NetBeans 

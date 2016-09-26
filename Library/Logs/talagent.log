@@ -1,0 +1,48 @@
+ Time	               Bundle ID	              Status	Comment
+0.000	                       -	                   -	TALagent Started (system uptime: 570287.97 sec, current time: 496546995.83)
+0.008	                       -	                   -	Liveness: 0 -> 1 (run_as_server)
+0.010	                       -	                   -	Liveness: 1 -> 2 (create_xpc_listener)
+0.010	                       -	                   -	Blocking app contact
+0.028	                       -	                   -	SecItemCopyMatching() returned errSecItemNotFound. Will attempt to regenerate the key.
+0.029	                       -	                   -	Creating a new encryption key
+1.226	                       -	                   -	Liveness: 2 -> 3 (server_show_windows_for_asns)
+1.226	                       -	                   -	server_show_windows_for_asns start
+1.226	                       -	                   -	Allowing apps to contact us
+1.228	                       -	                   -	TAL launch still in progress because Finder has not checked in
+1.228	                       -	                   -	Still waiting for registration from Finder
+1.229	                       -	                   -	Liveness: 3 -> 4 (add_app)
+1.229	                       -	                   -	Finder not yet launched, but pretending it is
+1.229	        com.apple.finder	                   -	Skipping window creation because plist is unavailable: 1
+1.229	        com.apple.finder	                   -	Skipping window creation because the archive was created prior to 10.10 (prev: 10.0)
+1.229	                       -	                   -	loginwindow launched no apps (but we still have to handle Finder)
+1.229	                       -	                   -	Bitmaps Ready (0 apps, 0 windows)
+1.230	        com.apple.finder	                   -	Disposing because it has no windows
+1.230	        com.apple.finder	            Disposed	
+1.230	                       -	                   -	server_show_windows_for_asns end
+1.231	                       -	                   -	TAL launch still in progress because Finder has not checked in
+1.231	                       -	                   -	Still waiting for registration from Finder
+1.260	                       -	                   -	TAL launch still in progress because Finder has not checked in
+1.260	                       -	                   -	Still waiting for registration from Finder
+1.305	                       -	                   -	TAL launch still in progress because Finder has not checked in
+1.305	                       -	                   -	Still waiting for registration from Finder
+3.010	                       -	                   -	Liveness: 4 -> 3 (__create_xpc_listener_block_invoke)
+3.426	                       -	                   -	Liveness: 3 -> 2 (__remove_app_block_invoke)
+10.685	                       -	                   -	TAL launch still in progress because Finder has not checked in
+10.685	                       -	                   -	Still waiting for registration from Finder
+10.767	                       -	                   -	TAL launch still in progress because Finder has not checked in
+10.767	                       -	                   -	Still waiting for registration from Finder
+10.841	                       -	                   -	TAL launch still in progress because Finder has not checked in
+10.841	                       -	                   -	Still waiting for registration from Finder
+10.859	                       -	                   -	TAL launch still in progress because Finder has not checked in
+10.859	                       -	                   -	Still waiting for registration from Finder
+10.970	                       -	                   -	TAL launch still in progress because Finder has not checked in
+10.970	                       -	                   -	Still waiting for registration from Finder
+11.231	                       -	                   -	Assuming that all apps that will be started, have been started. Stopped apps will no longer delay TAL launch completion.
+11.231	                       -	                   -	TAL launch still in progress because Finder has not checked in
+11.231	                       -	                   -	Still waiting for registration from Finder
+11.938	        com.apple.finder	                   -	Finder checked in
+11.938	                       -	                   -	All started apps have registered (no remaining unregistered apps)
+11.940	                       -	                   -	TAL Relaunch - all apps registered as ready
+11.940	                       -	                   -	Liveness: 2 -> 1 (__server_show_windows_for_asns_block_invoke30)
+15.007	                       -	                   -	Liveness: 1 -> 0 (__run_as_server_block_invoke)
+15.007	                       -	                   -	Exiting out of boredom
