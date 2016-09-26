@@ -20986,3 +20986,81 @@
   <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
   <param>12</param>
 </record>
+<record>
+  <date>2016-09-25T23:46:34</date>
+  <millis>1474861594823</millis>
+  <sequence>135</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>20</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2016-09-25T23:46:35</date>
+  <millis>1474861595109</millis>
+  <sequence>136</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>52</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>15</param>
+</record>
+<record>
+  <date>2016-09-25T23:47:15</date>
+  <millis>1474861635798</millis>
+  <sequence>137</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>20</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2016-09-25T23:47:16</date>
+  <millis>1474861636027</millis>
+  <sequence>138</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>56</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>15</param>
+</record>
+<record>
+  <date>2016-09-25T23:47:40</date>
+  <millis>1474861660513</millis>
+  <sequence>139</sequence>
+  <logger>org.netbeans.ui.vcs</logger>
+  <level>800</level>
+  <thread>56</thread>
+  <message>USG_VCS_CMD</message>
+  <key>USG_VCS_CMD</key>
+  <catalog>org.netbeans.modules.versioning.util.Bundle</catalog>
+  <param>GIT</param>
+  <param>165705</param>
+  <param>0</param>
+  <param>UNKNOWN</param>
+  <param>EXTERNAL</param>
+</record>
+<record>
+  <date>2016-09-25T23:48:22</date>
+  <millis>1474861702505</millis>
+  <sequence>142</sequence>
+  <logger>org.netbeans.ui.vcs</logger>
+  <level>800</level>
+  <thread>54</thread>
+  <message>USG_VCS_CMD</message>
+  <key>USG_VCS_CMD</key>
+  <catalog>org.netbeans.modules.versioning.util.Bundle</catalog>
+  <param>GIT</param>
+  <param>20297</param>
+  <param>0</param>
+  <param>UNKNOWN</param>
+  <param>EXTERNAL</param>
+</record>

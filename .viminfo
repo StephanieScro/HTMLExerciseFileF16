@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+::wq
 
 # Search String History (newest to oldest):
 
@@ -20,12 +21,26 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.bash_profile
+'0  2  5  ~/.git/COMMIT_EDITMSG
+'1  1  5  ~/.git/COMMIT_EDITMSG
+'2  1  0  ~/.bash_profile
 
 # Jumplist (newest first):
+-'  2  5  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.bash_profile
+-'  1  0  ~/.bash_profile
+-'  1  0  ~/.bash_profile
 -'  1  0  ~/.bash_profile
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	"	2	5
+	^	2	6
+	.	2	5
+	+	1	6
+	+	2	5
 
 > ~/.bash_profile
 	"	1	0

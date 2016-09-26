@@ -841,3 +841,5 @@ INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete in
 WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for /var/folders/fr/zlm0cdnd05j9bx062ncnbgxsv3yfh1/T/vcs-1474861346410/vcs-1474861355392/Cats.html
 INFO [org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser]: Unpaired license 00000006 without any module.
 WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for /var/folders/fr/zlm0cdnd05j9bx062ncnbgxsv3yfh1/T/vcs-1474861346410/vcs-1474861489516/Cats.html
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for /var/folders/fr/zlm0cdnd05j9bx062ncnbgxsv3yfh1/T/vcs-1474861346410/vcs-1474861662958/Cats.html
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for /var/folders/fr/zlm0cdnd05j9bx062ncnbgxsv3yfh1/T/vcs-1474861346410/vcs-1474861663040/Cats.html
