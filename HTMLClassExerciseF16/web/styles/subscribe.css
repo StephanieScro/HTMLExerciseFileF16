@@ -4,6 +4,28 @@
 color:grey;
 }
 
+form{
+    width:600px;
+}
+
+input{
+     width:250px;
+     float:right;
+}
+
+label{
+    padding-bottom: 10px;
+    padding-top:20px;
+    display:block;
+}
+
+form input:last-child{
+     width:100px;
+     border: black solid;
+     height: 30px;
+     margin: 0 0 5px 0;
+     background-color: orange;
+}
 
 html {
      background-image: url("../images/bats.gif");
