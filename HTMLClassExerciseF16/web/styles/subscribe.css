@@ -1,2 +1,121 @@
-.navigation:active{
+
+
+.navigation li a:active{
+color:grey;
+}
+
+
+html {
+     background-image: url("../images/bats.gif");
+} 
+
+body { 
+    width: 800px;
+    margin: 0 auto;
+    font-family:"Georgia", Georgia, serif;
+    background-color: white;
+    box-shadow: 10px 10px 5px #888888;
+    border-style: solid;
+}
+
+.side{
+     height: 650px;
+     float:left;
+     width:160px;
+     padding-right: 20px;
+ }
+ 
+.side li {
+     border: black solid;
+     list-style-type: none;;
+     height: 30px;
+     margin: 0 0 5px 0;
+     background-color: orange;
+ }
+ 
+ .side li a{
+    margin: 10px 10px 10px 10px;
+    color:black;
+    text-decoration: none;
+ }
+ 
+  .side li a:hover {
+    color: green;
+}
+
+.navigation{
+    padding: 10px 0 10px;
+    background-color: black;
+}
+
+.navigation  li{
+    display: inline-BLOCK;
+    text-decoration: none;
+}
+
+.navigation li a {
+    text-decoration: none;
+    padding: 37px;
+    color:white;
+  
+}
+.navigation li a:active{
+    color:orange;
+}
+
+.navigation li a:hover{
+    color:grey;
+}
+
+header{
+    border-bottom: solid;
+    background: orange;
+    background: -webkit-linear-gradient(45deg, white , orange, black); 
+    background: -o-linear-gradient(45deg, white, orange, black); 
+    background: -moz-linear-gradient(45deg, white, orange, black); 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer {
+    clear:both;
+}
+
+h1{
+    font-size: 40px
+}
+
+main h1::first-letter{
+    font-size: 70px;
+}
+ h2{ 
+    font-size: 25px;
+ }
+ 
+ header h1{
+    margin-left: 150px;
+ }
+ 
+ header h2{
+    margin-left: 150px;
+ }
+ 
+ header img {
+    float:left;
+     
+ }
+ 
+footer{
+    border-top: solid;
+    background: orange;
+    background: -webkit-linear-gradient(-45deg, white , orange, black); 
+    background: -o-linear-gradient(-45deg, white, orange, black); 
+    background: -moz-linear-gradient(-45deg, white, orange, black); 
+    padding: 10px;
+   
+}
+
+footer p{
+    font-size: 14px;
+    text-align: center;
 }

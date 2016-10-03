@@ -1,6 +1,9 @@
 {
     "elements": {},
     "attributes": {
+        "alt": {
+            "context": "a"
+        },
         "<": {
             "context": "a"
         }
