@@ -9,4 +9,13 @@
             30
         </session-timeout>
     </session-config>
+      <servlet>
+        <servlet-name>HalloweenServlet</servlet-name>
+        <servlet-class>edu.elon.events.HalloweenServlet</servlet-class>
+      </servlet>
+      <welcome-file-list>
+        <welcome-file>email.html</welcome-file>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+      
 </web-app>
